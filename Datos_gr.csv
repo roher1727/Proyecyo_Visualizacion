@@ -1,0 +1,316 @@
+,Timestamp,Facultad ,Sexo,Edad,Semestre(número),Orientación Sexual,Religión,Estatura(cm),Peso(kg),Cantidad de Parejas Sexuales,Edad Primera Vez,Activo Sexualmente,Frecuencia(Mes),Bachillerato de Origen,Hermanos Edades,Edad Padre,Escolaridad Padre,Edad Madre,Escolaridad Madre,Delegación,Has tenido relaciones con desconocidos,Consumes bebidas alcohólicas,Frecuencia de consumo al mes(número),Consumes marihuana,Frecuencia al mes(número),Hermana Mujer,Hermano Hombre,Hijo Unico,Hermano Menor,Hermano Enmedio,Hermano Mayor
+0,2/4/2020 9:59:34,Facultad de Ingeniería,Masculino,18,2,Heterosexual,Catolicismo,173.0,65.0,1.0,15.0,Sí,2,Prepa,0,51.0,Licenciatura,48.0,Bachillerato,Magdalena Contreras,No,Sí,0,No,0,0,0,0,0,0,1
+1,2/4/2020 10:01:35,Facultad de Química,Femenino,18,2,Heterosexual,Catolicismo,160.0,48.0,1.0,16.0,Sí,1,Prepa,22,61.0,Maestría,51.0,Licenciatura,Álvaro Obregón,No,Sí,0,No,0,1,0,0,1,0,0
+2,2/4/2020 10:48:17,Facultad de Química,Femenino,21,8,Heterosexual,Catolicismo,161.0,46.0,1.0,21.0,Sí,0,Prepa,"24, 19, 16",54.0,Licenciatura,51.0,Licenciatura,Tlalpan,No,No,0,No,0,1,1,0,0,1,0
+3,2/4/2020 10:53:20,Facultad de Química,Femenino,20,4,Heterosexual,Ateismo,167.0,62.0,5.0,16.0,Sí,1,Privada,0,50.0,Doctorado,47.0,Doctorado,Tlalpan,No,Sí,2,Sí,1,0,0,0,0,0,1
+4,2/4/2020 10:54:24,Facultad de Química,Femenino,19,4,Heterosexual,Catolicismo,160.0,65.0,1.0,18.0,No,0,Prepa,"41, 25",67.0,Carrera Técnica,57.0,Carrera Técnica,Benito Juárez,No,Sí,4,No,0,1,1,0,1,0,0
+5,2/4/2020 10:54:49,Facultad de Química,Femenino,20,4,Heterosexual,Catolicismo,165.0,54.0,0.0,18.0,No,0,Privada,14,50.0,Doctorado,50.0,Doctorado,Tlalpan,No,Sí,2,No,0,1,0,0,0,0,1
+6,2/4/2020 10:58:23,Facultad de Química,Masculino,19,2,Heterosexual,Ateismo,166.0,66.0,5.0,15.0,Sí,1,CCH,10,40.0,Maestría,40.0,Maestría,Tláhuac,No,Sí,8,Sí,2,1,0,0,0,0,1
+7,2/4/2020 10:58:29,Facultad de Química,Femenino,19,2,Heterosexual,Ateismo,165.0,64.0,2.0,16.0,Sí,7,Prepa,"5,16",49.0,Maestría,44.0,Bachillerato,Estado de México,No,Sí,4,No,0,1,1,0,0,0,1
+8,2/4/2020 10:58:34,Facultad de Química,Masculino,19,2,Heterosexual,Catolicismo,187.0,98.0,1.0,16.0,No,0,Prepa,No,47.0,Secundaria,49.0,Secundaria,Coyoacán,No,No,0,No,0,0,0,1,0,0,0
+9,2/4/2020 10:59:49,Facultad de Química,Femenino,18,2,Heterosexual,Catolicismo,150.0,52.0,4.0,15.0,Sí,6,CCH,"32,26,22",60.0,Licenciatura,52.0,Bachillerato,Coyoacán,Sí,Sí,4,No,0,1,0,0,1,0,0
+10,2/4/2020 11:03:31,Facultad de Química,Masculino,19,4,Homosexual,Catolicismo,170.0,72.0,50.0,16.0,Sí,4,Prepa,0,49.0,Licenciatura,45.0,Licenciatura,Estado de México,Sí,Sí,4,No,0,0,0,0,0,0,1
+11,2/4/2020 11:03:32,Facultad de Química,Femenino,19,4,Heterosexual,Agnosticismo,162.0,55.0,6.0,16.0,Sí,2,Privada,0,54.0,Licenciatura,54.0,Licenciatura,Benito Juárez,No,Sí,4,No,0,0,0,0,0,0,1
+12,2/4/2020 11:06:32,Facultad de Química,Masculino,20,4,Bisexual,Catolicismo,172.0,60.0,20.0,13.0,Sí,4,Prepa,19,37.0,Maestría,36.0,Licenciatura,Coyoacán,Sí,Sí,4,Sí,1,1,0,0,0,0,1
+13,2/4/2020 11:10:18,Facultad de Química,Femenino,18,1,Heterosexual,Catolicismo,160.0,46.0,1.0,17.0,No,0,Prepa,No,51.0,Licenciatura,51.0,Licenciatura,Benito Juárez,No,Sí,5,No,0,0,0,1,0,0,0
+14,2/4/2020 11:11:32,Facultad de Química,Masculino,18,1,Heterosexual,Catolicismo,170.0,66.0,4.0,15.0,Sí,2,Prepa,15,49.0,Maestría,51.0,Licenciatura,Coyoacán,No,Sí,4,No,0,1,0,0,0,0,1
+15,2/4/2020 11:11:53,Facultad de Química,Masculino,19,2,Heterosexual,Agnosticismo,184.0,75.0,6.0,16.0,Sí,5,Prepa,1,58.0,Licenciatura,56.0,Licenciatura,Coyoacán,Sí,Sí,5,Sí,3,1,0,0,0,0,1
+16,2/4/2020 11:15:34,Facultad de Química,Masculino,21,6,Heterosexual,Agnosticismo,185.0,69.0,0.0,0.0,No,0,Prepa,6,40.0,Licenciatura,39.0,Licenciatura,Azcapotzalco,No,Sí,3,No,0,0,1,0,0,0,1
+17,2/4/2020 11:15:43,Facultad de Química,Femenino,20,6,Heterosexual,Catolicismo,165.0,68.0,1.0,17.0,Sí,3,Prepa,25,53.0,Licenciatura,55.0,Carrera Técnica,Estado de México,No,Sí,4,No,0,0,1,0,1,0,0
+18,2/4/2020 11:51:22,Facultad de Medicina,Femenino,18,2,Heterosexual,Catolicismo,160.0,62.0,1.0,18.0,No,0,Prepa,0,45.0,Bachillerato,46.0,Maestría,Xochimilco,No,No,0,No,0,0,0,0,0,0,1
+19,2/4/2020 11:53:06,Facultad de Ingeniería,Masculino,19,2,Heterosexual,Agnosticismo,163.0,68.0,1.0,18.0,Sí,0,Prepa,"13,8",46.0,Carrera Técnica,40.0,Carrera Técnica,Tlalpan,No,Sí,2,No,0,0,1,0,0,0,1
+20,2/4/2020 11:55:28,Facultad de Medicina,Femenino,18,2,Heterosexual,Cristianismo,158.0,52.0,3.0,15.0,Sí,15,Prepa,No,,Licenciatura,45.0,Licenciatura,Xochimilco,No,Sí,5,Sí,1,0,0,1,0,0,0
+21,2/4/2020 12:00:00,Facultad de Medicina,Femenino,18,2,Heterosexual,Catolicismo,158.0,60.0,1.0,16.0,No,1,CCH,20,44.0,Licenciatura,43.0,Licenciatura,Tlalpan,No,Sí,2,No,0,1,0,0,1,0,0
+22,2/4/2020 12:00:26,Facultad de Medicina,Masculino,18,2,Heterosexual,Catolicismo,180.0,72.0,1.0,17.0,Sí,1,Prepa,13,41.0,Doctorado,42.0,Doctorado,Gustavo A. Madero,No,Sí,2,No,1,1,0,0,0,0,1
+23,2/4/2020 12:04:40,Facultad de Medicina,Femenino,20,2,Heterosexual,Catolicismo,153.0,46.0,3.0,19.0,Sí,15,Privada,"11,11,6",46.0,Licenciatura,44.0,Licenciatura,Azcapotzalco,No,Sí,3,No,0,1,1,0,0,0,1
+24,2/4/2020 12:07:31,Facultad de Medicina,Masculino,32,13,Heterosexual,Agnosticismo,173.0,86.0,6.0,20.0,No,0,Otro,22,64.0,Carrera Técnica,51.0,Bachillerato,Estado de México,No,Sí,5,No,0,1,0,0,0,0,1
+25,2/4/2020 12:15:35,Facultad de Medicina,Femenino,25,8,Heterosexual,Ateismo,164.0,52.0,17.0,18.0,Sí,1,CCH,"25,17 ,13",45.0,Licenciatura,49.0,Maestría,Gustavo A. Madero,No,Sí,2,No,0,1,0,0,0,0,1
+26,2/4/2020 12:15:38,Facultad de Medicina,Femenino,19,2,Heterosexual,Ateismo,175.0,54.5,2.0,17.0,No,1,Prepa,"23,20",45.0,Licenciatura,41.0,Bachillerato,Álvaro Obregón,No,Sí,2,No,0,0,1,0,1,0,0
+27,2/4/2020 12:16:22,Facultad de Medicina,Masculino,18,2,Heterosexual,Catolicismo,165.0,65.0,0.0,0.0,No,0,Prepa,10,65.0,Doctorado,46.0,Bachillerato,Cuauhtémoc,No,No,0,No,0,0,1,0,0,0,1
+28,2/4/2020 12:17:11,Facultad de Medicina,Masculino,21,2,Heterosexual,Catolicismo,179.0,63.0,2.0,16.0,No,2,CCH,21,42.0,Secundaria,40.0,Secundaria,Gustavo A. Madero,No,Sí,0,No,0,1,0,0,1,0,0
+29,2/4/2020 12:17:34,Facultad de Medicina,Femenino,19,2,Heterosexual,Judaismo,167.0,52.0,3.0,16.0,Sí,5,CCH,"17, 13, 9",45.0,Carrera Técnica,42.0,Bachillerato,Gustavo A. Madero,No,No,0,No,0,1,0,0,0,0,1
+30,2/4/2020 12:20:25,Facultad de Medicina,Masculino,19,2,Heterosexual,Catolicismo,180.0,65.0,2.0,17.0,No,0,Privada,25,50.0,Maestría,52.0,Licenciatura,Iztapalapa,No,Sí,3,No,0,0,1,0,1,0,0
+31,2/4/2020 12:22:04,Facultad de Medicina,Femenino,19,4,Heterosexual,Catolicismo,164.0,60.0,3.0,18.0,Sí,2,Prepa,8,42.0,Licenciatura,36.0,Secundaria,Iztacalco,No,Sí,3,No,0,1,0,0,0,0,1
+32,2/4/2020 12:23:06,Facultad de Medicina,Masculino,19,4,Bisexual,Catolicismo,178.0,78.0,12.0,13.0,Sí,2,Prepa,"24, 18. ",50.0,Bachillerato,48.0,Carrera Técnica,Álvaro Obregón,Sí,Sí,3,No,0,1,0,0,0,1,0
+33,2/4/2020 12:26:16,Facultad de Medicina,Femenino,21,2,Heterosexual,Catolicismo,160.0,45.0,1.0,19.0,Sí,12,CCH,19,49.0,Licenciatura,45.0,Licenciatura,Xochimilco,No,Sí,1,No,0,0,0,0,0,0,1
+34,2/4/2020 12:27:28,Facultad de Química,Femenino,22,8,Heterosexual,Catolicismo,162.0,56.0,1.0,22.0,Sí,1,Privada,26 y 21,60.0,Licenciatura,57.0,Doctorado,Tlalpan,No,Sí,4,No,0,1,0,0,0,1,0
+35,2/4/2020 12:47:18,Facultad de Odontología,Masculino,24,8,Heterosexual,Agnosticismo,160.0,53.0,7.0,18.0,Sí,3,Otro,2,43.0,Secundaria,44.0,Secundaria,Tláhuac,No,No,0,Sí,4,0,0,0,0,0,1
+36,2/4/2020 12:47:33,Facultad de Odontología,Femenino,21,8,Heterosexual,Ateismo,156.0,47.5,1.0,16.0,Sí,1,CCH,25,52.0,Bachillerato,52.0,Carrera Técnica,Estado de México,No,Sí,1,No,0,0,1,0,1,0,0
+37,2/4/2020 12:49:38,Facultad de Odontología,Femenino,23,10,Heterosexual,Catolicismo,159.0,42.0,1.0,16.0,Sí,3,Prepa,23,53.0,Maestría,51.0,Licenciatura,Tlalpan,No,No,0,No,0,1,0,0,1,0,0
+38,2/4/2020 12:54:23,Facultad de Odontología,Femenino,21,8,Heterosexual,Catolicismo,160.0,45.0,1.0,19.0,Sí,4,CCH,25,62.0,Licenciatura,62.0,Licenciatura,Gustavo A. Madero,No,No,0,No,0,1,0,0,1,0,0
+39,2/4/2020 12:57:15,Facultad de Odontología,Masculino,23,8,Heterosexual,Cristianismo,167.0,53.0,5.0,16.0,Sí,2,Prepa,13,47.0,Licenciatura,45.0,Licenciatura,Coyoacán,No,Sí,5,No,0,0,1,0,0,0,1
+40,2/4/2020 13:00:16,Facultad de Odontología,Femenino,22,8,Heterosexual,Cristianismo,163.0,58.0,2.0,19.0,Sí,2,Prepa,"20, 18, 10",52.0,Licenciatura,49.0,Carrera Técnica,Miguel Hidalgo,No,No,0,No,0,1,0,0,0,0,1
+41,2/4/2020 13:03:57,Facultad de Odontología,Femenino,21,6,Heterosexual,Catolicismo,167.0,53.0,,17.0,Sí,5,CCH,26,50.0,Carrera Técnica,50.0,Carrera Técnica,Estado de México,Sí,Sí,3,Sí,2,1,0,0,1,0,0
+42,2/4/2020 13:04:01,Facultad de Odontología,Femenino,20,6,Heterosexual,Catolicismo,165.0,59.0,1.0,19.0,No,0,Prepa,"22, 14",50.0,Bachillerato,48.0,Carrera Técnica,Iztacalco,No,Sí,1,No,0,1,1,0,0,1,0
+43,2/4/2020 13:04:07,Facultad de Odontología,Femenino,20,6,Heterosexual,Catolicismo,150.0,54.0,7.0,15.0,Sí,0,CCH,15,57.0,Secundaria,50.0,Bachillerato,Estado de México,No,Sí,3,Sí,3,1,0,0,0,0,1
+44,2/4/2020 13:04:19,Facultad de Odontología,Femenino,20,6,Heterosexual,Catolicismo,150.0,54.0,7.0,15.0,Sí,0,CCH,15,57.0,Secundaria,50.0,Bachillerato,Estado de México,No,Sí,3,Sí,3,1,0,0,0,0,1
+45,2/4/2020 13:08:25,Facultad de Odontología,Masculino,22,8,Bisexual,Catolicismo,170.0,55.0,5.0,17.0,No,1,Prepa,"9,22",45.0,Licenciatura,50.0,Licenciatura,Iztapalapa,No,Sí,20,No,0,0,0,0,0,0,1
+46,2/4/2020 13:09:15,Facultad de Odontología,Femenino,26,8,Heterosexual,Cristianismo,160.0,54.0,5.0,17.0,Sí,4,CCH,"28,18",52.0,Secundaria,51.0,Carrera Técnica,Tlalpan,No,Sí,16,No,0,1,1,0,0,1,0
+47,2/4/2020 13:12:04,Facultad de Odontología,Femenino,22,8,Heterosexual,Cristianismo,155.0,85.0,0.0,,No,0,Otro,"24, 20, 15",51.0,Bachillerato,48.0,Bachillerato,Coyoacán,No,No,0,No,0,1,0,0,0,1,0
+48,2/4/2020 13:16:27,Facultad de Odontología,Masculino,20,6,Heterosexual,Ateismo,174.0,80.0,2.0,18.0,Sí,4,Privada,1-28,50.0,Bachillerato,50.0,Licenciatura,Álvaro Obregón,No,Sí,1,No,0,0,1,0,0,1,0
+49,2/4/2020 13:17:42,Facultad de Odontología,Femenino,20,6,Heterosexual,Catolicismo,164.0,60.0,1.0,20.0,Sí,2,Prepa,14,47.0,Licenciatura,47.0,Licenciatura,Iztapalapa,No,Sí,2,No,0,1,0,0,0,0,1
+50,2/4/2020 13:20:47,Facultad de Odontología,Femenino,20,6,Heterosexual,Catolicismo,160.0,55.0,2.0,17.0,Sí,2,Prepa,13,47.0,Secundaria,47.0,Bachillerato,Azcapotzalco,No,Sí,1,No,0,1,0,0,0,0,1
+51,2/4/2020 13:21:06,Facultad de Odontología,Femenino,22,8,Heterosexual,Catolicismo,165.0,52.0,4.0,16.0,Sí,6,Prepa,No,52.0,Maestría,52.0,Licenciatura,Tlalpan,No,Sí,2,No,0,0,0,1,0,0,0
+52,2/4/2020 13:23:14,Facultad de Odontología,Femenino,27,4,Heterosexual,Catolicismo,160.0,64.0,13.0,17.0,Sí,1,Privada,0,55.0,Licenciatura,48.0,Bachillerato,Álvaro Obregón,No,Sí,2,No,0,0,0,0,0,0,1
+53,2/4/2020 13:25:38,Facultad de Odontología,Femenino,24,8,Heterosexual,Catolicismo,155.0,53.0,4.0,19.0,Sí,2,CCH,26,54.0,Bachillerato,50.0,Bachillerato,Tláhuac,No,Sí,3,No,0,1,0,0,1,0,0
+54,2/4/2020 13:26:16,Facultad de Odontología,Femenino,20,6,Heterosexual,Catolicismo,160.0,70.0,0.0,0.0,No,0,CCH,27 y 31,39.0,Licenciatura,56.0,Secundaria,Iztapalapa,No,Sí,2,No,0,0,0,0,1,0,0
+55,2/4/2020 13:26:29,Facultad de Odontología,Masculino,20,6,Heterosexual,Ateismo,179.0,69.0,13.0,14.0,Sí,2,Prepa,31 13,,Licenciatura,43.0,Licenciatura,Miguel Hidalgo,Sí,Sí,2,Sí,1,0,0,0,0,1,0
+56,2/4/2020 13:31:40,Facultad de Odontología,Femenino,19,4,Heterosexual,Catolicismo,60.0,53.0,1.0,16.0,Sí,20,Prepa,20,50.0,Doctorado,49.0,Doctorado,Álvaro Obregón,No,Sí,10,No,0,0,1,0,1,0,0
+57,2/4/2020 13:35:36,Facultad de Odontología,Femenino,22,6,Heterosexual,Ateismo,153.0,59.0,1.0,15.0,Sí,12,CCH,No,54.0,Bachillerato,52.0,Bachillerato,Iztapalapa,Sí,Sí,4,No,0,0,0,1,0,0,0
+58,2/4/2020 13:43:27,Facultad de Odontología,Femenino,21,7,Heterosexual,Catolicismo,156.0,50.0,11.0,18.0,Sí,2,CCH,"23, 18",57.0,Licenciatura,56.0,Licenciatura,Tlalpan,No,Sí,4,No,0,0,1,0,0,1,0
+59,2/4/2020 13:47:06,Facultad de Odontología,Femenino,20,6,Heterosexual,Catolicismo,160.0,58.0,2.0,17.0,Sí,1,CCH,"43,41,31",60.0,Secundaria,61.0,Secundaria,Iztapalapa,No,Sí,2,No,0,1,0,0,1,0,0
+60,2/4/2020 13:47:42,Facultad de Odontología,Femenino,20,6,Heterosexual,Agnosticismo,165.0,66.0,9.0,15.0,Sí,1,Prepa,"18,11",45.0,Licenciatura,49.0,Licenciatura,Venustiano Carranza,No,Sí,1,No,0,1,0,0,0,0,1
+61,2/4/2020 13:52:09,Facultad de Odontología,Femenino,21,8,Heterosexual,Ateismo,168.0,65.0,15.0,16.0,Sí,20,CCH,1,50.0,Licenciatura,51.0,Bachillerato,Xochimilco,No,Sí,4,Sí,1,0,1,0,0,0,1
+62,2/4/2020 13:54:11,Facultad de Odontología,Femenino,21,8,Bisexual,Catolicismo,160.0,50.0,6.0,16.0,No,0,CCH,26 27,48.0,Secundaria,46.0,Carrera Técnica,Miguel Hidalgo,No,Sí,1,No,0,1,1,0,1,0,0
+63,2/4/2020 14:01:54,Facultad de Economía,Masculino,19,2,Bisexual,Ateismo,175.0,80.0,8.0,16.0,Sí,2,Prepa,22,44.0,Licenciatura,39.0,Secundaria,Iztapalapa,Sí,No,0,No,0,1,0,0,1,0,0
+64,2/4/2020 14:09:46,Facultad de Ingeniería,Masculino,21,8,Heterosexual,Ateismo,178.0,70.0,3.0,15.0,Sí,4,CCH,19,45.0,Bachillerato,46.0,Bachillerato,Tlalpan,No,Sí,1,No,0,1,0,0,0,0,1
+65,2/4/2020 14:09:52,Facultad de Ingeniería,Masculino,22,8,Heterosexual,Catolicismo,176.0,65.0,3.0,18.0,Sí,2,CCH,"25, 20",49.0,Bachillerato,51.0,Bachillerato,Estado de México,No,Sí,3,No,0,0,1,0,0,1,0
+66,2/4/2020 14:09:59,Facultad de Ingeniería,Femenino,21,8,Heterosexual,Catolicismo,167.0,58.0,2.0,17.0,Sí,3,Prepa,"29,27",56.0,Licenciatura,54.0,Licenciatura,Cuauhtémoc,No,Sí,1,No,0,0,1,0,1,0,0
+67,2/4/2020 14:13:36,Facultad de Arquitectura,Masculino,20,2,Heterosexual,Ateismo,180.0,75.0,1.0,17.0,Sí,6,Privada,23,46.0,Licenciatura,47.0,Licenciatura,Magdalena Contreras,No,Sí,10,Sí,1,0,1,0,1,0,0
+68,2/4/2020 14:15:22,Facultad de Arquitectura,Masculino,20,2,Heterosexual,Ateismo,170.0,71.0,2.0,18.0,Sí,1,Privada,17,55.0,Licenciatura,53.0,Licenciatura,Álvaro Obregón,No,Sí,7,Sí,1,1,0,0,0,0,1
+69,2/4/2020 14:20:13,Facultad de Economía,Masculino,18,2,Pansexual,Ateismo,171.0,67.0,1.0,18.0,No,0,Prepa,1-16,46.0,Maestría,49.0,Maestría,Benito Juárez,No,Sí,6,No,0,1,0,0,0,0,1
+70,2/4/2020 14:20:27,Facultad de Economía,Femenino,18,2,Heterosexual,Agnosticismo,165.0,54.0,4.0,17.0,Sí,2,Prepa,"34,31,14",53.0,Licenciatura,53.0,Bachillerato,Xochimilco,No,Sí,8,No,0,0,1,0,0,1,0
+71,2/4/2020 14:21:01,Facultad de Filosofía y Letras,Femenino,18,1,Heterosexual,Agnosticismo,169.0,56.0,4.0,16.0,Sí,0,Prepa,0,57.0,Maestría,54.0,Maestría,Coyoacán,Sí,Sí,1,Sí,1,0,0,0,0,0,1
+72,2/4/2020 14:29:48,Facultad de Arquitectura,Masculino,21,2,Pansexual,Judaismo,168.0,63.0,1.0,20.0,No,0,Privada,0,57.0,Maestría,49.0,Licenciatura,Estado de México,No,Sí,1,No,0,0,0,0,0,0,1
+73,2/4/2020 14:30:01,Facultad de Arquitectura,Femenino,18,2,Heterosexual,Catolicismo,165.0,67.0,0.0,,No,0,Prepa,25,48.0,Carrera Técnica,49.0,Bachillerato,Cuajimalpa de Morelos,No,No,0,No,0,1,0,0,1,0,0
+74,2/4/2020 14:32:11,Facultad de Arquitectura,Masculino,17,2,Homosexual,Agnosticismo,179.0,63.0,4.0,14.0,Sí,1,Prepa,22,54.0,Licenciatura,55.0,Licenciatura,Tlalpan,Sí,Sí,1,No,1,0,0,0,1,0,0
+75,2/4/2020 14:32:42,Facultad de Arquitectura,Masculino,21,2,Heterosexual,Agnosticismo,173.0,76.0,2.0,16.0,No,1,Prepa,"15, 19!",47.0,Bachillerato,43.0,Bachillerato,Coyoacán,No,Sí,2,Sí,1,1,0,0,0,0,1
+76,2/4/2020 14:33:13,Facultad de Arquitectura,Masculino,19,2,Homosexual,Catolicismo,170.0,82.0,6.0,17.0,Sí,2,Prepa,Si,49.0,Bachillerato,47.0,Secundaria,Estado de México,Sí,Sí,3,No,0,0,0,1,0,0,0
+77,2/4/2020 14:38:34,Facultad de Arquitectura,Femenino,22,9,Heterosexual,Agnosticismo,169.0,69.0,3.0,20.0,Sí,2,Prepa,"37, 19",69.0,Licenciatura,55.0,Carrera Técnica,Álvaro Obregón,No,Sí,7,No,0,0,1,0,0,1,0
+78,2/4/2020 14:38:42,Facultad de Filosofía y Letras,Femenino,20,6,Bisexual,Agnosticismo,164.0,63.0,4.0,16.0,Sí,9,Prepa,25,59.0,Licenciatura,51.0,Carrera Técnica,Benito Juárez,No,Sí,3,No,0,0,1,0,1,0,0
+79,2/4/2020 14:43:21,Facultad de Ingeniería,Masculino,22,8,Heterosexual,Catolicismo,166.0,63.0,2.0,17.0,Sí,3,CCH,24,0.0,Licenciatura,60.0,Carrera Técnica,Coyoacán,No,Sí,3,No,0,1,0,0,1,0,0
+80,2/4/2020 14:50:52,Facultad de Ingeniería,Femenino,23,7,Heterosexual,Catolicismo,160.0,46.0,2.0,18.0,Sí,4,CCH,"1,19",53.0,Licenciatura,50.0,Carrera Técnica,Iztapalapa,No,Sí,1,No,0,1,0,0,0,0,1
+81,2/4/2020 14:53:03,Facultad de Ingeniería,Femenino,22,7,Heterosexual,Catolicismo,157.0,60.0,1.0,21.0,No,1,CCH,32 y 31,61.0,Licenciatura,56.0,Secundaria,Azcapotzalco,No,No,0,No,0,0,0,0,1,0,0
+82,2/4/2020 14:53:59,Facultad de Ingeniería,Masculino,24,9,Heterosexual,Catolicismo,172.0,72.0,1.0,21.0,Sí,2,CCH,No,46.0,Carrera Técnica,55.0,Secundaria,Cuauhtémoc,No,Sí,4,No,0,0,0,1,0,0,0
+83,2/4/2020 14:54:20,Facultad de Ingeniería,Femenino,21,5,Heterosexual,Cristianismo,161.0,53.0,8.0,17.0,Sí,14,Prepa,"30, 28",54.0,Maestría,51.0,Maestría,Coyoacán,No,No,0,No,0,1,0,0,1,0,0
+84,2/4/2020 14:58:33,Facultad de Ingeniería,Masculino,25,10,Heterosexual,Cristianismo,165.0,64.0,2.0,17.0,Sí,0,Otro,"17,15",38.0,Bachillerato,32.0,Bachillerato,Coyoacán,Sí,Sí,2,No,0,1,0,0,0,0,1
+85,2/4/2020 14:58:59,Facultad de Ingeniería,Femenino,22,9,Heterosexual,Catolicismo,170.0,62.0,2.0,18.0,Sí,2,CCH,20,78.0,Licenciatura,56.0,Carrera Técnica,Estado de México,No,Sí,1,No,0,0,1,0,0,0,1
+86,2/4/2020 15:00:02,Facultad de Ingeniería,Masculino,22,10,Heterosexual,Cristianismo,181.0,72.0,2.0,18.0,No,0,Prepa,"2 hermanos , 25 y 16",52.0,Licenciatura,51.0,Carrera Técnica,Estado de México,Sí,Sí,1,No,0,0,0,0,0,1,0
+87,2/4/2020 15:00:27,Facultad de Ingeniería,Masculino,23,7,Heterosexual,Catolicismo,169.0,79.0,1.0,19.0,Sí,10,CCH,17,46.0,Secundaria,39.0,Secundaria,Gustavo A. Madero,No,No,0,No,0,1,0,0,0,0,1
+88,2/4/2020 15:00:35,Facultad de Ingeniería,Masculino,24,7,Heterosexual,Catolicismo,173.0,80.0,0.0,0.0,No,0,Prepa,0,54.0,Licenciatura,53.0,Licenciatura,Iztapalapa,No,No,0,No,0,0,0,0,0,0,1
+89,2/4/2020 15:00:37,Facultad de Ingeniería,Masculino,28,8,Heterosexual,Catolicismo,2.65,60.0,4.0,16.0,Sí,1,Prepa,22,0.0,Secundaria,50.0,Secundaria,Miguel Hidalgo,Sí,Sí,2,No,0,1,0,0,0,0,1
+90,2/4/2020 15:00:44,Facultad de Ingeniería,Masculino,28,8,Heterosexual,Catolicismo,2.65,60.0,4.0,16.0,Sí,1,Prepa,22,0.0,Secundaria,50.0,Secundaria,Miguel Hidalgo,Sí,Sí,2,No,0,1,0,0,0,0,1
+91,2/4/2020 15:02:57,Facultad de Ingeniería,Masculino,22,10,Heterosexual,Catolicismo,165.0,70.0,3.0,16.0,No,0,CCH,No tengo hermanos ,47.0,Secundaria,46.0,Secundaria,Estado de México,No,No,0,No,0,0,0,1,0,0,0
+92,2/4/2020 15:03:10,Facultad de Ingeniería,Femenino,22,10,Heterosexual,Catolicismo,155.0,49.0,2.0,17.0,Sí,8,Prepa,"30,19",52.0,Secundaria,49.0,Secundaria,Estado de México,No,No,0,No,0,1,0,0,0,1,0
+93,2/4/2020 15:03:29,Facultad de Ingeniería,Femenino,22,10,Heterosexual,Catolicismo,160.0,47.0,5.0,17.0,Sí,12,CCH,"30, 27",51.0,Licenciatura,50.0,Licenciatura,Estado de México,No,Sí,4,No,0,1,0,0,1,0,0
+94,2/4/2020 15:03:32,Facultad de Ingeniería,Femenino,22,10,Heterosexual,Ateismo,156.0,52.0,3.0,17.0,Sí,2,Prepa,No,52.0,Licenciatura,52.0,Licenciatura,Estado de México,No,No,0,No,0,0,0,1,0,0,0
+95,2/4/2020 15:03:36,Facultad de Ingeniería,Masculino,22,9,Heterosexual,Catolicismo,167.0,64.0,4.0,15.0,No,0,Prepa,15,44.0,Secundaria,47.0,Secundaria,Estado de México,No,No,0,No,0,1,0,0,0,0,1
+96,2/4/2020 15:04:26,Facultad de Ingeniería,Femenino,22,8,Heterosexual,Catolicismo,160.0,57.0,2.0,19.0,Sí,1,Prepa,11,54.0,Maestría,52.0,Licenciatura,Iztacalco,No,No,0,No,0,1,0,0,0,0,1
+97,2/4/2020 15:11:08,Facultad de Ingeniería,Femenino,23,10,Heterosexual,Agnosticismo,175.0,68.0,10.0,18.0,Sí,15,CCH,"28,15",50.0,Carrera Técnica,50.0,Secundaria,Tláhuac,No,No,0,No,0,0,0,0,0,1,0
+98,2/4/2020 16:47:05,Facultad de Arquitectura,Masculino,20,6,Heterosexual,Cristianismo,174.0,60.0,0.0,0.0,No,0,Prepa,21,60.0,Licenciatura,45.0,Carrera Técnica,Estado de México,No,Sí,1,No,0,1,0,0,1,0,0
+99,2/4/2020 16:49:45,Facultad de Arquitectura,Femenino,20,6,Pansexual,Ateismo,168.0,56.0,15.0,13.0,Sí,1,CCH,"25, 19, 13",55.0,Carrera Técnica,49.0,Carrera Técnica,Tlalpan,No,Sí,4,No,0,1,1,0,0,1,0
+100,2/4/2020 16:54:26,Facultad de Arquitectura,Femenino,20,6,Heterosexual,Cristianismo,162.0,55.0,2.0,16.0,No,0,CCH,"23,20,26,36",46.0,Secundaria,46.0,Bachillerato,Tlalpan,No,No,0,No,0,1,0,0,1,0,0
+101,2/4/2020 16:54:30,Facultad de Arquitectura,Masculino,21,6,Heterosexual,Catolicismo,182.0,61.0,1.0,21.0,Sí,1,CCH,23,50.0,Doctorado,50.0,Carrera Técnica,Estado de México,No,Sí,1,No,0,0,1,0,1,0,0
+102,2/4/2020 16:57:39,Facultad de Economía,Femenino,21,6,Heterosexual,Ateismo,157.0,57.0,6.0,15.0,Sí,3,Prepa,16 años,45.0,Carrera Técnica,42.0,Carrera Técnica,Álvaro Obregón,Sí,Sí,4,Sí,3,0,1,0,0,0,1
+103,2/4/2020 17:44:05,Facultad de Odontología,Femenino,22,8,Heterosexual,Catolicismo,160.0,59.0,7.0,19.0,Sí,4,CCH,No,48.0,Bachillerato,46.0,Secundaria,Coyoacán,No,Sí,4,No,0,0,0,1,0,0,0
+104,2/4/2020 17:46:21,Facultad de Química,Masculino,19,2,Heterosexual,Ateismo,166.0,66.0,5.0,15.0,Sí,1,CCH,10,40.0,Maestría,40.0,Maestría,Tláhuac,No,Sí,8,Sí,2,1,0,0,0,0,1
+105,2/4/2020 18:27:46,Facultad de Ingeniería,Femenino,22,4,Heterosexual,Catolicismo,155.0,52.0,2.0,15.0,Sí,0,Prepa,27,56.0,Licenciatura,56.0,Licenciatura,Azcapotzalco,No,Sí,2,Sí,5,0,1,0,1,0,0
+106,2/4/2020 21:14:29,Facultad de Ingeniería,Masculino,22,8,Heterosexual,Catolicismo,170.0,64.0,1.0,19.0,Sí,4,CCH,21 y 25,57.0,Licenciatura,55.0,Licenciatura,Coyoacán,Sí,Sí,1,No,0,0,0,0,0,1,0
+107,2/4/2020 21:31:25,Facultad de Economía,Femenino,21,6,Heterosexual,Ateismo,157.0,57.0,6.0,15.0,Sí,3,Prepa,16 años,45.0,Carrera Técnica,42.0,Carrera Técnica,Álvaro Obregón,Sí,Sí,4,Sí,3,0,1,0,0,0,1
+108,2/4/2020 21:41:41,Facultad de Economía,Femenino,18,2,Heterosexual,Agnosticismo,165.0,54.0,4.0,17.0,Sí,2,Prepa,"34,31,14",53.0,Licenciatura,53.0,Bachillerato,Xochimilco,No,Sí,8,No,0,0,1,0,0,1,0
+109,2/5/2020 10:53:00,Facultad de Derecho,Masculino,20,4,Homosexual,Agnosticismo,178.0,65.0,4.0,17.0,Sí,10,Privada,"28,24",57.0,Maestría,54.0,Licenciatura,Coyoacán,Sí,No,0,Sí,1,1,1,0,1,0,0
+110,2/5/2020 10:54:30,Facultad de Derecho,Masculino,21,4,Homosexual,Ateismo,171.0,67.0,15.0,14.0,Sí,2,Prepa,17,48.0,Licenciatura,40.0,Licenciatura,Estado de México,Sí,Sí,3,No,0,0,0,0,0,0,1
+111,2/5/2020 10:59:22,Facultad de Derecho,Masculino,18,2,Heterosexual,Ateismo,169.0,70.0,13.0,15.0,Sí,10,Prepa,21 32,60.0,Maestría,45.0,Doctorado,Azcapotzalco,Sí,Sí,4,Sí,1,1,0,0,1,0,0
+112,2/5/2020 11:00:29,Facultad de Derecho,Masculino,20,4,Heterosexual,Agnosticismo,182.0,70.0,18.0,16.0,Sí,12,Prepa,15,41.0,Maestría,40.0,Bachillerato,Xochimilco,Sí,Sí,10,No,0,0,1,0,0,0,1
+113,2/5/2020 11:01:19,Facultad de Derecho,Femenino,20,4,Heterosexual,Cristianismo,159.0,64.0,10.0,16.0,Sí,20,Prepa,31 y 32,60.0,Licenciatura,54.0,Licenciatura,Magdalena Contreras,No,Sí,2,No,0,1,0,0,1,0,0
+114,2/5/2020 11:01:52,Facultad de Derecho,Masculino,19,4,Heterosexual,Catolicismo,172.0,65.0,10.0,15.0,Sí,10,CCH,13,42.0,Licenciatura,37.0,Licenciatura,Estado de México,Sí,Sí,2,No,0,1,0,0,0,0,1
+115,2/5/2020 11:02:00,Facultad de Derecho,Masculino,19,4,Heterosexual,Catolicismo,172.0,65.0,10.0,15.0,Sí,10,CCH,13,42.0,Licenciatura,37.0,Licenciatura,Estado de México,Sí,Sí,2,No,0,1,0,0,0,0,1
+116,2/5/2020 11:09:57,Facultad de Derecho,Femenino,18,2,Heterosexual,Catolicismo,160.0,56.0,3.0,18.0,No,7,Otro,26- 29,54.0,Carrera Técnica,53.0,Carrera Técnica,Iztapalapa,No,Sí,3,No,0,1,0,0,1,0,0
+117,2/5/2020 11:11:15,Facultad de Derecho,Femenino,20,2,Heterosexual,Ateismo,155.0,40.0,3.0,18.0,No,0,Otro,Dos hermanos 30 y 18,0.0,Licenciatura,52.0,Licenciatura,Iztapalapa,No,Sí,1,No,1,1,0,0,0,1,0
+118,2/5/2020 11:18:02,Facultad de Derecho,Femenino,20,6,Heterosexual,Cristianismo,170.0,57.0,1.0,19.0,Sí,20,CCH,No,50.0,Maestría,45.0,Licenciatura,Benito Juárez,No,Sí,4,No,0,0,0,1,0,0,0
+119,2/5/2020 11:18:54,Facultad de Derecho,Femenino,22,6,Heterosexual,Catolicismo,163.0,69.0,1.0,16.0,Sí,1,Prepa,"31,31",52.0,Secundaria,51.0,Carrera Técnica,Tlalpan,No,No,0,No,0,0,1,0,1,0,0
+120,2/5/2020 11:18:59,Facultad de Derecho,Femenino,20,6,Heterosexual,Catolicismo,165.0,,0.0,,No,0,CCH,"20, 23",56.0,Licenciatura,57.0,Carrera Técnica,Iztapalapa,No,No,0,No,0,0,0,0,1,0,0
+121,2/5/2020 11:19:02,Facultad de Derecho,Masculino,23,6,Homosexual,Catolicismo,163.0,68.0,5.0,17.0,No,0,CCH,20,57.0,Bachillerato,48.0,Secundaria,Iztapalapa,No,Sí,5,No,0,1,0,0,0,0,1
+122,2/5/2020 11:19:10,Facultad de Derecho,Femenino,21,6,Heterosexual,Catolicismo,154.0,52.0,2.0,17.0,Sí,4,CCH,23 21 20 17 16 14,42.0,Secundaria,40.0,Secundaria,Tlalpan,No,Sí,15,No,10,0,0,0,0,1,0
+123,2/5/2020 11:20:13,Facultad de Derecho,Femenino,23,8,Heterosexual,Catolicismo,165.0,75.0,0.0,0.0,No,0,CCH,"25, 27",60.0,Licenciatura,53.0,Licenciatura,Benito Juárez,No,Sí,1,No,0,1,0,0,1,0,0
+124,2/5/2020 11:24:48,Facultad de Derecho,Masculino,20,2,Heterosexual,Ateismo,182.0,78.0,3.0,14.0,Sí,2,Prepa,"30, 31",20.0,Licenciatura,42.0,Carrera Técnica,Coyoacán,No,Sí,2,No,0,1,0,0,1,0,0
+125,2/5/2020 11:25:16,Facultad de Derecho,Femenino,20,2,Heterosexual,Catolicismo,158.0,54.0,3.0,16.0,Sí,2,Prepa,"24,24",50.0,Bachillerato,45.0,Carrera Técnica,Estado de México,No,Sí,4,Sí,3,0,1,0,1,0,0
+126,2/5/2020 11:26:25,Facultad de Derecho,Masculino,18,2,Heterosexual,Ateismo,175.0,80.0,2.0,16.0,Sí,9,CCH,"16, 14",40.0,Licenciatura,37.0,Licenciatura,Iztapalapa,No,Sí,5,No,0,0,0,0,0,0,1
+127,2/5/2020 11:31:18,Facultad de Derecho,Femenino,18,2,Pansexual,Catolicismo,161.0,63.0,1.0,17.0,Sí,1,Prepa,"40, 33",59.0,Licenciatura,61.0,Licenciatura,Tlalpan,No,Sí,1,No,0,0,1,0,1,0,0
+128,2/5/2020 11:31:38,Facultad de Derecho,Femenino,19,2,Heterosexual,Ateismo,155.0,68.0,2.0,15.0,Sí,2,CCH,No,45.0,Licenciatura,44.0,Licenciatura,Estado de México,No,Sí,2,No,0,0,0,1,0,0,0
+129,2/5/2020 11:36:03,Facultad de Ingeniería,Masculino,19,4,Heterosexual,Agnosticismo,170.0,74.0,2.0,15.0,Sí,4,CCH,12,47.0,Licenciatura,45.0,Maestría,Estado de México,No,Sí,1,No,0,1,0,0,0,0,1
+130,2/5/2020 11:37:19,Facultad de Derecho,Femenino,23,10,Heterosexual,Catolicismo,150.0,53.0,2.0,21.0,Sí,15,Prepa,No,59.0,Licenciatura,49.0,Bachillerato,Benito Juárez,No,Sí,4,No,0,0,0,1,0,0,0
+131,2/5/2020 11:41:41,Facultad de Derecho,Masculino,20,2,Bisexual,Catolicismo,176.0,85.0,4.0,19.0,Sí,1,Prepa,15,56.0,Licenciatura,52.0,Licenciatura,Coyoacán,No,No,0,No,0,1,0,0,0,0,1
+132,2/5/2020 11:42:35,Facultad de Medicina,Femenino,18,2,Heterosexual,Catolicismo,161.0,60.0,1.0,18.0,Sí,3,Prepa,"16, 4",44.0,Maestría,42.0,Licenciatura,Estado de México,No,Sí,1,No,0,1,0,0,0,0,1
+133,2/5/2020 11:44:15,Facultad de Medicina,Masculino,18,2,Heterosexual,Cristianismo,170.0,64.0,2.0,14.0,Sí,0,CCH,16,48.0,Licenciatura,55.0,Maestría,Tlalpan,No,No,0,No,0,1,0,0,0,0,1
+134,2/5/2020 11:53:10,Facultad de Contaduría y Administración,Femenino,20,2,Heterosexual,Catolicismo,166.0,65.0,2.0,18.0,Sí,0,Prepa,"1, 13",48.0,Licenciatura,46.0,Licenciatura,Tlalpan,No,Sí,0,No,0,0,1,0,0,0,1
+135,2/5/2020 11:55:02,Facultad de Odontología,Masculino,19,2,Homosexual,Agnosticismo,180.0,64.0,6.0,18.0,Sí,3,Privada,23 y 13 ,52.0,Maestría,52.0,Maestría,Iztapalapa,Sí,Sí,1,No,0,0,1,0,0,1,0
+136,2/5/2020 11:55:24,Facultad de Odontología,Femenino,19,2,Heterosexual,Catolicismo,160.0,55.0,0.0,0.0,No,0,CCH,"17, 20",43.0,Carrera Técnica,40.0,Licenciatura,Tlalpan,No,No,0,No,0,0,1,0,0,1,0
+137,2/5/2020 11:55:59,Facultad de Odontología,Femenino,20,2,Heterosexual,Catolicismo,161.0,57.0,3.0,18.0,No,3,Otro,"35,33,30",60.0,Licenciatura,60.0,Licenciatura,Iztapalapa,No,Sí,2,No,0,0,0,0,1,0,0
+138,2/5/2020 11:56:21,Facultad de Derecho,Femenino,18,2,Heterosexual,Catolicismo,157.0,65.0,2.0,16.0,Sí,5,CCH,1 año,43.0,Bachillerato,36.0,Carrera Técnica,Azcapotzalco,No,Sí,6,No,0,1,0,0,0,0,1
+139,2/5/2020 12:08:23,Facultad de Medicina Veterinaria y Zoologia,Femenino,18,2,Heterosexual,Catolicismo,149.0,47.0,2.0,17.0,Sí,4,CCH,21,44.0,Bachillerato,42.0,Carrera Técnica,Estado de México,No,No,0,No,0,1,0,0,1,0,0
+140,2/5/2020 12:11:00,Facultad de Derecho,Femenino,22,10,Bisexual,Ateismo,155.0,71.5,5.0,19.0,No,0,Prepa,26,64.0,Licenciatura,56.0,Carrera Técnica,Miguel Hidalgo,Sí,Sí,2,No,0,0,1,0,1,0,0
+141,2/5/2020 12:17:53,Facultad de Filosofía y Letras,Femenino,19,1,Heterosexual,Agnosticismo,154.0,69.0,0.0,,No,0,Privada,No,58.0,Licenciatura,55.0,Bachillerato,Magdalena Contreras,No,Sí,1,No,0,0,0,1,0,0,0
+142,2/5/2020 12:20:55,Facultad de Filosofía y Letras,Femenino,18,2,Heterosexual,Agnosticismo,170.0,65.0,1.0,16.0,No,0,CCH,"33, 28",51.0,Secundaria,50.0,Maestría,Tláhuac,No,Sí,2,No,0,1,0,0,1,0,0
+143,2/5/2020 12:20:56,Facultad de Filosofía y Letras,Femenino,22,2,Heterosexual,Judaismo,168.0,63.0,3.0,19.0,Sí,1,CCH,"35,30,20",56.0,Secundaria,57.0,Secundaria,Estado de México,No,Sí,2,No,0,1,1,0,0,1,0
+144,2/5/2020 12:26:36,Facultad de Derecho,Femenino,18,2,Bisexual,Agnosticismo,153.0,53.0,3.0,14.0,No,0,Prepa,Hermana 13,56.0,Maestría,48.0,Carrera Técnica,Coyoacán,No,Sí,3,No,0,1,0,0,0,0,1
+145,2/5/2020 12:28:42,Facultad de Arquitectura,Femenino,18,2,Pansexual,Catolicismo,163.0,45.0,0.0,18.0,No,0,Privada,"20,6,4",55.0,Maestría,56.0,Licenciatura,Benito Juárez,No,Sí,4,No,4,1,0,0,0,1,0
+146,2/5/2020 12:28:51,Facultad de Arquitectura,Masculino,19,2,Heterosexual,Agnosticismo,170.0,65.0,2.0,17.0,Sí,12,Prepa,27,48.0,Bachillerato,48.0,Bachillerato,Xochimilco,No,Sí,1,Sí,1,1,0,0,1,0,0
+147,2/5/2020 12:29:14,Facultad de Arquitectura,Femenino,19,2,Heterosexual,Ateismo,171.0,69.0,1.0,18.0,No,0,CCH,"23,21,6",40.0,Secundaria,41.0,Licenciatura,Cuauhtémoc,No,Sí,4,No,0,1,1,0,0,1,0
+148,2/5/2020 12:29:20,Facultad de Arquitectura,Masculino,19,2,Heterosexual,Ateismo,170.0,82.0,3.0,16.0,Sí,6,Privada,24,55.0,Licenciatura,54.0,Licenciatura,Coyoacán,No,Sí,4,Sí,2,1,0,0,1,0,0
+149,2/5/2020 12:29:47,Facultad de Arquitectura,Femenino,22,2,Heterosexual,Agnosticismo,180.0,70.0,4.0,18.0,Sí,16,Prepa,18,52.0,Maestría,50.0,Maestría,Coyoacán,Sí,Sí,2,No,0,0,1,0,0,0,1
+150,2/5/2020 12:30:51,Facultad de Arquitectura,Femenino,24,6,Bisexual,Ateismo,160.0,54.0,4.0,17.0,No,0,Prepa,17,48.0,Licenciatura,46.0,Licenciatura,Benito Juárez,No,Sí,4,No,0,1,0,0,0,0,1
+151,2/5/2020 12:31:23,Facultad de Arquitectura,Masculino,18,2,Heterosexual,Ateismo,180.0,63.5,16.0,15.0,Sí,4,CCH,11 y 24,47.0,Licenciatura,49.0,Licenciatura,Estado de México,Sí,Sí,3,Sí,1,0,0,0,0,1,0
+152,2/5/2020 12:33:39,Facultad de Arquitectura,Femenino,20,6,Bisexual,Agnosticismo,160.0,60.0,4.0,15.0,Sí,8,Prepa,18 y 10,47.0,Bachillerato,46.0,Licenciatura,Iztapalapa,No,Sí,3,Sí,1,0,1,0,0,0,1
+153,2/5/2020 12:35:49,Facultad de Arquitectura,Femenino,19,4,Heterosexual,Catolicismo,160.0,50.0,0.0,0.0,No,0,Prepa,0,52.0,Licenciatura,52.0,Maestría,Tláhuac,No,No,0,No,0,0,0,0,0,0,1
+154,2/5/2020 12:36:16,Facultad de Arquitectura,Femenino,18,2,Heterosexual,Catolicismo,173.0,70.0,1.0,15.0,Sí,3,Privada,15,46.0,Licenciatura,46.0,Licenciatura,Gustavo A. Madero,No,Sí,3,No,0,0,1,0,0,0,1
+155,2/5/2020 12:36:49,Facultad de Arquitectura,Femenino,19,4,Heterosexual,Catolicismo,147.0,51.0,0.0,0.0,No,0,CCH,10 y 17,58.0,Doctorado,39.0,Bachillerato,Milpa Alta,No,No,0,No,0,1,0,0,0,0,1
+156,2/5/2020 12:39:02,Facultad de Arquitectura,Femenino,19,2,Heterosexual,Catolicismo,165.0,61.0,,17.0,No,0,Privada,18,54.0,Licenciatura,47.0,Licenciatura,Cuauhtémoc,No,Sí,2,No,0,0,1,0,0,0,1
+157,2/5/2020 12:40:31,Facultad de Arquitectura,Masculino,23,2,Heterosexual,Agnosticismo,171.0,71.0,3.0,17.0,Sí,8,Otro,"1, 12 años",51.0,Bachillerato,45.0,Carrera Técnica,Gustavo A. Madero,Sí,Sí,4,No,0,0,1,0,0,0,1
+158,2/5/2020 12:41:58,Facultad de Arquitectura,Masculino,19,4,Heterosexual,Ateismo,168.0,63.0,1.0,18.0,Sí,2,CCH,"21, 46, 32, 36",72.0,Licenciatura,52.0,Maestría,Cuauhtémoc,No,No,0,No,0,1,1,0,1,0,0
+159,2/5/2020 12:43:45,Facultad de Arquitectura,Masculino,21,4,Heterosexual,Ateismo,175.0,70.0,1.0,18.0,Sí,4,CCH,25,63.0,Licenciatura,52.0,Maestría,Coyoacán,Sí,Sí,1,No,0,0,0,0,1,0,0
+160,2/5/2020 12:44:55,Facultad de Filosofía y Letras,Masculino,19,1,Heterosexual,Ateismo,175.0,61.0,7.0,14.0,Sí,5,Prepa,0,40.0,Licenciatura,39.0,Bachillerato,Iztacalco,Sí,Sí,2,Sí,2,0,0,0,0,0,1
+161,2/5/2020 12:48:16,Facultad de Arquitectura,Femenino,20,4,Bisexual,Catolicismo,163.0,72.0,2.0,18.0,No,1,CCH,"23, 13",48.0,Licenciatura,47.0,Maestría,Coyoacán,No,Sí,3,No,0,0,1,0,0,1,0
+162,2/5/2020 12:48:32,Facultad de Arquitectura,Masculino,20,4,Heterosexual,Agnosticismo,172.0,62.0,2.0,18.0,No,0,Prepa,1-22,56.0,Licenciatura,54.0,Licenciatura,Cuauhtémoc,No,Sí,0,No,2,0,1,0,0,1,0
+163,2/5/2020 12:48:52,Facultad de Ciencias Politicas y Sociales,Masculino,21,4,Heterosexual,Ateismo,181.0,75.0,1.0,16.0,Sí,4,Prepa,"30, 28, 20",55.0,Carrera Técnica,55.0,Carrera Técnica,Coyoacán,No,Sí,1,Sí,1,0,1,0,0,1,0
+164,2/5/2020 12:52:18,Facultad de Arquitectura,Femenino,19,4,Heterosexual,Ateismo,170.0,60.0,3.0,15.0,Sí,4,CCH,16 y 21,50.0,Licenciatura,47.0,Licenciatura,Benito Juárez,Sí,Sí,2,No,0,1,1,0,0,1,0
+165,2/5/2020 12:55:26,Facultad de Arquitectura,Masculino,20,4,Bisexual,Agnosticismo,170.0,72.0,4.0,13.0,Sí,1,Otro,27,55.0,Bachillerato,58.0,Licenciatura,Iztacalco,Sí,Sí,1,No,0,0,0,0,1,0,0
+166,2/5/2020 12:59:03,Facultad de Arquitectura,Femenino,19,4,Heterosexual,Cristianismo,165.0,70.0,0.0,,No,0,CCH,25,51.0,Licenciatura,52.0,Licenciatura,Tlalpan,No,No,0,No,0,1,0,0,1,0,0
+167,2/5/2020 12:59:19,Facultad de Filosofía y Letras,Masculino,22,2,Heterosexual,Cristianismo,174.0,53.0,5.0,17.0,Sí,4,Otro,26,52.0,Licenciatura,54.0,Maestría,Magdalena Contreras,No,Sí,4,No,0,1,0,0,1,0,0
+168,2/5/2020 13:05:33,Facultad de Psicología,Femenino,18,2,Heterosexual,Catolicismo,160.0,45.0,2.0,15.0,Sí,3,Prepa,12,50.0,Bachillerato,45.0,Licenciatura,Benito Juárez,No,Sí,2,Sí,1,1,0,0,0,0,1
+169,2/5/2020 13:06:12,Facultad de Ciencias,Masculino,18,2,Heterosexual,Catolicismo,167.0,56.0,1.0,17.0,No,0,Prepa,24,50.0,Licenciatura,47.0,Licenciatura,Tlalpan,Sí,Sí,6,No,0,1,0,0,1,0,0
+170,2/5/2020 13:09:10,Facultad de Arquitectura,Masculino,22,2,Pansexual,Agnosticismo,178.0,80.0,50.0,14.0,Sí,8,Privada,"25, 20",58.0,Licenciatura,57.0,Bachillerato,Estado de México,Sí,Sí,6,Sí,0,0,0,0,0,1,0
+171,2/5/2020 13:10:55,Facultad de Psicología,Femenino,21,8,Heterosexual,Catolicismo,160.0,58.0,3.0,19.0,Sí,3,CCH,"17, 11",49.0,Licenciatura,45.0,Carrera Técnica,Estado de México,No,Sí,3,No,0,1,0,0,0,0,1
+172,2/5/2020 13:14:11,Facultad de Psicología,Masculino,23,2,Heterosexual,Ateismo,174.0,80.0,6.0,18.0,Sí,7,CCH,25,64.0,Doctorado,57.0,Maestría,Álvaro Obregón,Sí,Sí,10,Sí,6,1,0,0,1,0,0
+173,2/5/2020 13:14:15,Facultad de Psicología,Masculino,18,2,Heterosexual,Agnosticismo,184.0,73.0,5.0,17.0,No,4,Prepa,No,64.0,Maestría,54.0,Licenciatura,Magdalena Contreras,No,Sí,2,Sí,1,0,0,1,0,0,0
+174,2/5/2020 13:15:29,Facultad de Psicología,Femenino,18,2,Heterosexual,Ateismo,158.0,52.0,2.0,17.0,Sí,1,CCH,23,48.0,Carrera Técnica,43.0,Bachillerato,Estado de México,No,Sí,5,No,0,0,1,0,1,0,0
+175,2/5/2020 13:18:49,Facultad de Psicología,Masculino,21,6,Heterosexual,Ateismo,185.0,72.0,2.0,17.0,Sí,1,Prepa,19 y 18,42.0,Secundaria,41.0,Secundaria,Coyoacán,No,Sí,1,No,0,0,1,0,0,0,1
+176,2/5/2020 13:18:52,Facultad de Psicología,Femenino,20,6,Heterosexual,Catolicismo,163.0,48.0,2.0,18.0,No,0,CCH,Ninguno,45.0,Carrera Técnica,40.0,Carrera Técnica,Tláhuac,No,Sí,6,No,0,0,0,1,0,0,0
+177,2/5/2020 13:19:49,Facultad de Psicología,Masculino,20,6,Heterosexual,Agnosticismo,175.0,66.0,2.0,14.0,Sí,4,Prepa,17,49.0,Licenciatura,50.0,Licenciatura,Iztapalapa,No,Sí,1,No,0,1,0,0,0,0,1
+178,2/5/2020 13:20:55,Facultad de Psicología,Masculino,20,6,Heterosexual,Agnosticismo,170.0,96.0,2.0,16.0,No,1,Prepa,"25, 30",50.0,Licenciatura,49.0,Licenciatura,Venustiano Carranza,No,Sí,1,No,1,1,0,0,1,0,0
+179,2/5/2020 13:23:17,Facultad de Arquitectura,Femenino,19,4,Heterosexual,Agnosticismo,149.0,42.0,1.0,15.0,Sí,0,CCH,7,46.0,Licenciatura,42.0,Licenciatura,Estado de México,No,Sí,1,No,0,1,0,0,0,0,1
+180,2/5/2020 13:23:49,Facultad de Psicología,Femenino,21,4,Bisexual,Agnosticismo,162.0,48.0,2.0,19.0,No,0,Prepa,24,50.0,Licenciatura,52.0,Licenciatura,Coyoacán,No,Sí,2,No,0,0,0,0,1,0,0
+181,2/5/2020 13:27:33,Facultad de Psicología,Femenino,22,8,Heterosexual,Ateismo,156.0,50.0,6.0,17.0,Sí,14,CCH,"26,28",62.0,Doctorado,60.0,Doctorado,Tlalpan,Sí,No,0,No,0,1,0,0,1,0,0
+182,2/5/2020 13:28:20,Facultad de Psicología,Femenino,22,6,Heterosexual,Catolicismo,150.0,56.0,7.0,17.0,Sí,35,Prepa,23 y 8,49.0,Secundaria,41.0,Secundaria,Álvaro Obregón,No,Sí,10,Sí,2,0,1,0,0,1,0
+183,2/5/2020 13:32:02,Facultad de Psicología,Masculino,21,6,Heterosexual,Cristianismo,170.0,68.0,0.0,,No,0,Prepa,"1,18",46.0,Licenciatura,44.0,Licenciatura,Benito Juárez,No,No,1,No,0,0,1,0,0,0,1
+184,2/5/2020 13:32:31,Facultad de Psicología,Masculino,21,6,Heterosexual,Cristianismo,170.0,68.0,0.0,,No,0,Prepa,"1,18",46.0,Licenciatura,44.0,Licenciatura,Benito Juárez,No,No,1,No,0,0,1,0,0,0,1
+185,2/5/2020 13:32:41,Facultad de Psicología,Masculino,36,6,Heterosexual,Cristianismo,168.0,68.0,40.0,16.0,Sí,14,CCH,"40,32,28",58.0,Secundaria,60.0,Secundaria,Estado de México,Sí,Sí,10,Sí,2,0,0,0,0,1,0
+186,2/5/2020 13:34:27,Facultad de Psicología,Femenino,22,6,Bisexual,Catolicismo,150.0,47.0,6.0,18.0,Sí,1,Prepa,"25, 8",45.0,Bachillerato,40.0,Licenciatura,Magdalena Contreras,Sí,Sí,1,No,0,1,0,0,0,1,0
+187,2/5/2020 13:40:47,Facultad de Psicología,Femenino,18,2,Bisexual,Ateismo,155.0,50.0,1.0,16.0,Sí,4,Prepa,"36, 33, 30",57.0,Secundaria,56.0,Bachillerato,Cuauhtémoc,No,No,0,No,0,1,1,0,1,0,0
+188,2/5/2020 13:42:06,Facultad de Psicología,Femenino,18,2,Heterosexual,Cristianismo,160.0,58.0,2.0,17.0,No,1,CCH,No,38.0,Secundaria,37.0,Secundaria,Iztapalapa,No,Sí,1,Sí,1,0,0,1,0,0,0
+189,2/5/2020 13:46:02,Facultad de Psicología,Femenino,20,4,Heterosexual,Ateismo,168.0,63.0,1.0,18.0,No,0,CCH,12,49.0,Maestría,49.0,Licenciatura,Benito Juárez,No,Sí,1,No,0,1,0,0,0,0,1
+190,2/5/2020 13:46:56,Facultad de Psicología,Femenino,19,4,Heterosexual,Cristianismo,171.0,76.0,0.0,,No,0,Prepa,23,47.0,Carrera Técnica,47.0,Secundaria,Estado de México,No,No,0,No,0,1,0,0,1,0,0
+191,2/5/2020 13:48:16,Facultad de Psicología,Femenino,19,4,Heterosexual,Ateismo,157.0,52.0,2.0,16.0,Sí,3,CCH,"22,25,31",57.0,Bachillerato,52.0,Carrera Técnica,Milpa Alta,No,Sí,4,No,0,0,1,0,1,0,0
+192,2/5/2020 13:50:43,Facultad de Arquitectura,Femenino,21,4,Heterosexual,Catolicismo,160.0,58.0,1.0,19.0,No,0,Prepa,27 y 31,59.0,Licenciatura,56.0,Carrera Técnica,Venustiano Carranza,No,Sí,7,No,0,0,0,0,1,0,0
+193,2/5/2020 13:53:35,Facultad de Arquitectura,Femenino,19,4,Heterosexual,Catolicismo,154.0,68.0,0.0,0.0,No,0,Prepa,15,45.0,Carrera Técnica,48.0,Carrera Técnica,Tláhuac,No,Sí,2,No,0,1,0,0,0,0,1
+194,2/5/2020 13:54:34,Facultad de Psicología,Femenino,21,8,Heterosexual,Agnosticismo,168.0,54.0,3.0,15.0,Sí,5,Prepa,"23, 24",52.0,Bachillerato,55.0,Bachillerato,Estado de México,No,Sí,2,No,0,1,1,0,1,0,0
+195,2/5/2020 13:55:17,Facultad de Psicología,Femenino,19,4,Heterosexual,Catolicismo,158.0,48.0,3.0,18.0,No,0,Privada,13,51.0,Licenciatura,46.0,Licenciatura,Iztapalapa,No,Sí,1,No,0,0,0,0,0,0,1
+196,2/5/2020 13:56:03,Facultad de Psicología,Femenino,21,4,Heterosexual,Catolicismo,162.0,70.0,2.0,19.0,Sí,2,Prepa,16 y 14,52.0,Licenciatura,44.0,Secundaria,Iztapalapa,No,Sí,2,No,0,0,1,0,0,0,1
+197,2/5/2020 13:57:43,Facultad de Psicología,Femenino,22,4,Heterosexual,Catolicismo,159.0,52.0,2.0,18.0,Sí,5,Otro,"26, 23",45.0,Secundaria,46.0,Secundaria,Coyoacán,No,No,0,No,0,1,0,0,1,0,0
+198,2/5/2020 13:57:53,Facultad de Psicología,Femenino,19,4,Heterosexual,Ateismo,160.0,60.0,4.0,16.0,Sí,3,CCH,21,59.0,Licenciatura,47.0,Carrera Técnica,Tlalpan,No,Sí,1,No,0,1,0,0,1,0,0
+199,2/5/2020 13:59:39,Facultad de Psicología,Femenino,20,4,Heterosexual,Ateismo,165.0,70.0,7.0,15.0,Sí,4,CCH,"18, 16, 13. ",42.0,Secundaria,38.0,Secundaria,Coyoacán,No,Sí,4,No,0,1,0,0,0,0,1
+200,2/5/2020 13:59:47,Facultad de Psicología,Femenino,21,2,Heterosexual,Ateismo,161.0,41.0,2.0,16.0,Sí,5,Privada,18,48.0,Licenciatura,43.0,Licenciatura,Tlalpan,No,No,0,No,0,0,0,0,0,0,1
+201,2/5/2020 14:03:39,Facultad de Psicología,Femenino,18,2,Heterosexual,Ateismo,156.0,53.5,2.0,18.0,No,1,Prepa,"3, 10",45.0,Licenciatura,44.0,Licenciatura,Iztapalapa,No,Sí,4,No,0,1,0,0,0,0,1
+202,2/5/2020 14:04:07,Facultad de Psicología,Masculino,19,2,Heterosexual,Agnosticismo,175.0,53.0,1.0,17.0,No,0,Prepa,22,60.0,Licenciatura,55.0,Licenciatura,Coyoacán,No,Sí,1,No,0,1,0,0,1,0,0
+203,2/5/2020 14:04:15,Facultad de Psicología,Femenino,21,8,Heterosexual,Catolicismo,154.0,50.0,2.0,18.0,No,11,CCH,19,46.0,Secundaria,49.0,Carrera Técnica,Estado de México,No,Sí,2,No,0,0,0,0,0,0,1
+204,2/5/2020 14:05:59,Facultad de Psicología,Femenino,20,6,Heterosexual,Catolicismo,151.0,42.0,8.0,17.0,Sí,1,CCH,"32, 34",61.0,Licenciatura,60.0,Maestría,Azcapotzalco,No,Sí,1,No,0,1,0,0,1,0,0
+205,2/5/2020 14:06:41,Facultad de Psicología,Masculino,22,8,Heterosexual,Catolicismo,166.0,84.0,0.0,0.0,No,0,Prepa,0,61.0,Licenciatura,54.0,Licenciatura,Iztapalapa,No,No,0,No,0,0,0,0,0,0,1
+206,2/5/2020 14:06:46,Facultad de Psicología,Femenino,20,6,Heterosexual,Cristianismo,148.0,50.0,1.0,17.0,Sí,3,CCH,"24, 32 ",55.0,Secundaria,51.0,Carrera Técnica,Iztapalapa,No,Sí,1,No,0,1,1,0,1,0,0
+207,2/5/2020 14:07:47,Facultad de Psicología,Masculino,20,6,Heterosexual,Ateismo,172.0,74.0,12.0,12.0,Sí,10,CCH,"16, 28",41.0,Licenciatura,41.0,Licenciatura,Xochimilco,Sí,Sí,1,No,0,1,1,0,0,1,0
+208,2/5/2020 14:07:51,Facultad de Psicología,Femenino,20,6,Heterosexual,Agnosticismo,160.0,65.0,2.0,17.0,No,2,Prepa,"17,27,31",51.0,Bachillerato,45.0,Bachillerato,Tlalpan,No,Sí,1,No,0,0,0,0,0,1,0
+209,2/5/2020 14:12:33,Facultad de Psicología,Masculino,18,2,Homosexual,Ateismo,167.0,50.0,4.0,15.0,Sí,2,CCH,"2 hermanos, 22 y 26",42.0,Licenciatura,43.0,Maestría,Estado de México,No,No,1,No,1,1,0,0,0,1,0
+210,2/5/2020 14:12:46,Facultad de Psicología,Femenino,20,2,Heterosexual,Catolicismo,156.0,69.0,0.0,0.0,No,0,Otro,"14, 9",49.0,Licenciatura,48.0,Licenciatura,Coyoacán,No,No,0,No,0,1,0,0,0,0,1
+211,2/5/2020 14:14:28,Facultad de Psicología,Masculino,18,2,Bisexual,Catolicismo,170.0,73.0,5.0,13.0,Sí,2,Prepa,"26 años, 8 años ",47.0,Secundaria,45.0,Secundaria,Iztapalapa,Sí,Sí,20,No,1,1,0,0,0,1,0
+212,2/5/2020 14:17:13,Facultad de Psicología,Masculino,19,4,Heterosexual,Catolicismo,176.0,76.0,5.0,16.0,Sí,9,Prepa,29,48.0,Bachillerato,49.0,Bachillerato,Cuajimalpa de Morelos,Sí,Sí,2,No,0,1,0,0,1,0,0
+213,2/5/2020 14:17:37,Facultad de Psicología,Masculino,20,4,Bisexual,Cristianismo,170.0,60.0,,,No,0,Prepa,24,49.0,Secundaria,46.0,Carrera Técnica,Xochimilco,No,Sí,1,No,0,0,0,0,1,0,0
+214,2/5/2020 14:18:40,Facultad de Psicología,Femenino,19,4,Heterosexual,Catolicismo,153.0,48.0,2.0,17.0,No,6,CCH,18,51.0,Carrera Técnica,49.0,Secundaria,Estado de México,No,Sí,2,No,0,0,0,0,0,0,1
+215,2/5/2020 14:19:44,Facultad de Psicología,Femenino,19,4,Heterosexual,Catolicismo,155.0,43.0,1.0,17.0,Sí,7,Prepa,"2, 13, 16",40.0,Bachillerato,38.0,Licenciatura,Álvaro Obregón,No,Sí,4,No,0,1,1,0,0,0,1
+216,2/5/2020 14:22:40,Facultad de Psicología,Femenino,18,2,Heterosexual,Catolicismo,162.0,68.0,1.0,17.0,No,0,Prepa,No,42.0,Secundaria,37.0,Bachillerato,Iztapalapa,No,Sí,1,No,0,0,0,1,0,0,0
+217,2/5/2020 14:23:04,Facultad de Psicología,Femenino,19,2,Heterosexual,Agnosticismo,160.0,43.0,1.0,18.0,Sí,4,Privada,"13,16",60.0,Licenciatura,45.0,Maestría,Tlalpan,No,No,0,No,0,1,1,0,0,0,1
+218,2/5/2020 14:23:36,Facultad de Psicología,Femenino,19,2,Bisexual,Catolicismo,147.0,55.0,5.0,15.0,Sí,8,CCH,"1, 29",65.0,Licenciatura,51.0,Bachillerato,Gustavo A. Madero,No,Sí,4,No,0,0,1,0,0,1,0
+219,2/5/2020 14:33:26,Facultad de Psicología,Femenino,19,4,Heterosexual,Catolicismo,155.0,50.0,1.0,17.0,No,0,Prepa," 21, 11.",57.0,Bachillerato,50.0,Licenciatura,Xochimilco,No,No,0,No,0,0,1,0,0,1,0
+220,2/5/2020 14:36:47,Facultad de Arquitectura,Masculino,21,2,Heterosexual,Agnosticismo,175.0,73.0,1.0,18.0,No,1,Prepa,0,51.0,Bachillerato,49.0,Maestría,Estado de México,No,Sí,1,No,0,0,0,0,0,0,1
+221,2/5/2020 15:38:20,Facultad de Psicología,Femenino,20,4,Bisexual,Catolicismo,154.0,60.0,4.0,16.0,Sí,1,Prepa,9 y 5 años,50.0,Licenciatura,48.0,Licenciatura,Coyoacán,No,Sí,1,No,0,1,0,0,0,0,1
+222,2/5/2020 15:44:12,Facultad de Ingeniería,Masculino,19,2,Heterosexual,Ateismo,170.0,60.0,1.0,17.0,Sí,4,Prepa,15 y 23,48.0,Licenciatura,,Bachillerato,Iztacalco,No,No,0,No,0,1,0,0,0,1,0
+223,2/5/2020 15:56:12,Facultad de Medicina,Masculino,27,9,Heterosexual,Catolicismo,169.0,62.0,20.0,15.0,Sí,4,Privada,No,58.0,Licenciatura,57.0,Bachillerato,Magdalena Contreras,Sí,Sí,1,No,0,0,0,1,0,0,0
+224,2/5/2020 15:59:41,Facultad de Odontología,Femenino,19,2,Heterosexual,Catolicismo,160.0,55.0,0.0,0.0,No,0,CCH,"17, 20",43.0,Carrera Técnica,40.0,Licenciatura,Tlalpan,No,No,0,No,0,0,1,0,0,1,0
+225,2/5/2020 16:08:16,Facultad de Ciencias Politicas y Sociales,Masculino,21,4,Heterosexual,Ateismo,181.0,75.0,1.0,16.0,Sí,4,Prepa,"30, 28, 20",55.0,Carrera Técnica,55.0,Carrera Técnica,Coyoacán,No,Sí,1,Sí,1,0,1,0,0,1,0
+226,2/5/2020 16:15:38,Facultad de Psicología,Femenino,21,6,Heterosexual,Catolicismo,156.0,49.0,1.0,18.0,Sí,4,CCH,2: 17 y 9 años,45.0,Carrera Técnica,44.0,Bachillerato,Álvaro Obregón,No,Sí,1,No,0,0,0,0,0,0,1
+227,2/5/2020 16:50:31,Facultad de Psicología,Masculino,19,4,Heterosexual,Ateismo,177.0,78.0,1.0,19.0,No,0,CCH,3 años y 2 hermanos,48.0,Doctorado,49.0,Maestría,Cuauhtémoc,No,No,0,No,0,1,0,0,0,0,1
+228,2/5/2020 20:51:57,Facultad de Derecho,Femenino,19,2,Heterosexual,Ateismo,155.0,68.0,2.0,15.0,Sí,2,CCH,No,45.0,Licenciatura,44.0,Licenciatura,Estado de México,No,Sí,2,No,0,0,0,1,0,0,0
+229,2/5/2020 21:54:45,Facultad de Ciencias,Masculino,20,6,Heterosexual,Agnosticismo,167.0,68.0,3.0,16.0,No,1,CCH,15,46.0,Bachillerato,41.0,Secundaria,Estado de México,No,Sí,4,No,0,1,0,0,0,0,1
+230,2/5/2020 23:13:12,Facultad de Derecho,Femenino,20,2,Heterosexual,Cristianismo,165.0,58.0,1.0,19.0,No,0,Prepa,17,,Licenciatura,40.0,Bachillerato,Coyoacán,No,Sí,2,No,0,0,1,0,0,0,1
+231,2/6/2020 14:25:38,Facultad de Ciencias Politicas y Sociales,Masculino,22,5,Heterosexual,Agnosticismo,168.0,70.0,2.0,21.0,Sí,1,Privada,20,49.0,Maestría,49.0,Secundaria,Iztapalapa,No,Sí,7,No,0,0,1,0,0,0,1
+232,2/7/2020 8:37:56,Facultad de Ciencias,Masculino,19,4,Heterosexual,Agnosticismo,170.0,60.0,3.0,17.0,Sí,10,Prepa,15,51.0,Licenciatura,50.0,Maestría,Miguel Hidalgo,No,Sí,3,No,0,0,1,0,0,0,1
+233,2/7/2020 8:38:06,Facultad de Ciencias,Masculino,19,4,Heterosexual,Agnosticismo,170.0,60.0,3.0,17.0,Sí,10,Prepa,15,51.0,Licenciatura,50.0,Maestría,Miguel Hidalgo,No,Sí,3,No,0,0,1,0,0,0,1
+234,2/7/2020 8:40:13,Facultad de Ciencias,Femenino,20,4,Bisexual,Agnosticismo,151.0,43.0,6.0,16.0,Sí,1,CCH,"16,16",45.0,Carrera Técnica,48.0,Carrera Técnica,Tlalpan,No,Sí,1,No,0,0,1,0,0,0,1
+235,2/7/2020 8:42:00,Facultad de Ciencias,Masculino,19,2,Heterosexual,Ateismo,175.0,70.0,4.0,16.0,Sí,4,CCH,18,48.0,Secundaria,50.0,Bachillerato,Estado de México,Sí,Sí,1,No,0,1,0,0,0,0,1
+236,2/7/2020 8:43:02,Facultad de Ciencias,Femenino,19,4,Heterosexual,Catolicismo,155.0,50.0,1.0,18.0,Sí,1,Prepa,22,51.0,Licenciatura,49.0,Licenciatura,Tláhuac,No,Sí,1,No,0,1,0,0,1,0,0
+237,2/7/2020 8:43:34,Facultad de Ciencias,Femenino,18,2,Heterosexual,Agnosticismo,165.0,48.0,3.0,17.0,Sí,4,Prepa,0,55.0,Carrera Técnica,51.0,Licenciatura,Miguel Hidalgo,No,No,0,No,0,0,0,0,0,0,1
+238,2/7/2020 8:44:03,Facultad de Ciencias,Masculino,18,2,Heterosexual,Ateismo,177.0,69.0,3.0,15.0,Sí,1,Prepa,15,51.0,Carrera Técnica,50.0,Maestría,Estado de México,Sí,Sí,3,No,0,1,0,0,0,0,1
+239,2/7/2020 8:44:33,Facultad de Ciencias,Masculino,18,2,Homosexual,Catolicismo,171.0,73.0,5.0,17.0,Sí,1,Prepa,14,41.0,Licenciatura,38.0,Licenciatura,Cuauhtémoc,No,Sí,2,No,0,0,1,0,0,0,1
+240,2/7/2020 8:44:49,Facultad de Ciencias,Femenino,20,2,Heterosexual,Ateismo,172.0,59.0,2.0,16.0,Sí,3,Privada,0,56.0,Licenciatura,54.0,Licenciatura,Benito Juárez,No,Sí,3,No,0,0,0,0,0,0,1
+241,2/7/2020 8:45:18,Facultad de Ciencias,Masculino,18,2,Heterosexual,Catolicismo,170.0,68.0,1.0,15.0,Sí,1,Prepa,"20, 10",45.0,Bachillerato,44.0,Bachillerato,Benito Juárez,No,Sí,0,No,1,1,0,0,0,1,0
+242,2/7/2020 8:45:56,Facultad de Ciencias,Femenino,20,4,Bisexual,Ateismo,170.0,60.0,2.0,16.0,Sí,4,CCH,16,44.0,Carrera Técnica,43.0,Carrera Técnica,Gustavo A. Madero,No,Sí,1,No,0,0,1,0,0,0,1
+243,2/7/2020 8:46:00,Facultad de Ciencias,Femenino,19,4,Heterosexual,Ateismo,162.0,49.0,1.0,17.0,Sí,1,Prepa,10,43.0,Bachillerato,42.0,Licenciatura,Gustavo A. Madero,No,Sí,1,No,0,1,0,0,0,0,1
+244,2/7/2020 8:49:01,Facultad de Ciencias,Masculino,22,10,Heterosexual,Agnosticismo,181.0,98.0,2.0,20.0,No,0,Prepa,"35,30",69.0,Licenciatura,64.0,Bachillerato,Tlalpan,Sí,Sí,1,No,0,1,0,0,1,0,0
+245,2/7/2020 8:49:05,Facultad de Ciencias,Femenino,19,2,Bisexual,Agnosticismo,152.0,51.0,1.0,16.0,Sí,0,Prepa,22,59.0,Doctorado,55.0,Doctorado,Coyoacán,No,Sí,5,No,0,0,0,0,1,0,0
+246,2/7/2020 8:50:13,Facultad de Ciencias,Femenino,18,2,Heterosexual,Ateismo,163.0,67.0,1.0,17.0,Sí,1,CCH,15,47.0,Licenciatura,47.0,Licenciatura,Gustavo A. Madero,No,Sí,3,No,0,0,1,0,0,0,1
+247,2/7/2020 8:50:45,Facultad de Ciencias,Femenino,18,2,Heterosexual,Ateismo,163.0,67.0,1.0,17.0,Sí,1,CCH,15,47.0,Licenciatura,47.0,Licenciatura,Gustavo A. Madero,No,Sí,3,No,0,0,1,0,0,0,1
+248,2/7/2020 8:51:14,Facultad de Ciencias,Femenino,18,2,Heterosexual,Ateismo,150.0,54.0,0.0,,No,0,Prepa,21,47.0,Secundaria,42.0,Bachillerato,Tláhuac,No,Sí,1,No,0,1,0,0,1,0,0
+249,2/7/2020 8:52:25,Facultad de Ciencias,Masculino,19,4,Heterosexual,Ateismo,182.0,76.0,1.0,18.0,Sí,5,Privada,14,60.0,Doctorado,45.0,Doctorado,Tlalpan,No,Sí,2,No,0,0,1,0,0,0,1
+250,2/7/2020 8:53:09,Facultad de Ciencias,Femenino,18,2,Bisexual,Agnosticismo,165.0,60.0,0.0,,No,0,Prepa,29,51.0,Licenciatura,51.0,Doctorado,Tlalpan,No,Sí,2,No,0,1,0,0,1,0,0
+251,2/7/2020 8:53:17,Facultad de Ciencias,Femenino,18,2,Bisexual,Agnosticismo,165.0,60.0,0.0,,No,0,Prepa,29,51.0,Licenciatura,51.0,Doctorado,Tlalpan,No,Sí,2,No,0,1,0,0,1,0,0
+252,2/7/2020 8:53:30,Facultad de Ciencias,Masculino,20,2,Heterosexual,Agnosticismo,182.0,75.0,3.0,18.0,No,2,Privada,2,58.0,Bachillerato,58.0,Licenciatura,Álvaro Obregón,No,Sí,6,Sí,1,0,0,0,0,0,1
+253,2/7/2020 8:54:49,Facultad de Ciencias,Masculino,19,2,Bisexual,Agnosticismo,175.0,63.0,9.0,16.0,No,2,CCH,15,50.0,Licenciatura,42.0,Secundaria,Coyoacán,Sí,Sí,3,No,0,0,1,0,0,0,1
+254,2/7/2020 8:55:36,Facultad de Ciencias,Femenino,19,4,Heterosexual,Cristianismo,158.0,65.0,8.0,18.0,Sí,1,Privada,12,45.0,Maestría,46.0,Licenciatura,Coyoacán,Sí,Sí,4,No,0,0,0,0,0,0,1
+255,2/7/2020 8:56:17,Facultad de Ciencias,Masculino,23,6,Homosexual,Ateismo,167.0,70.0,500.0,14.0,Sí,6,CCH,29,52.0,Secundaria,48.0,Bachillerato,Estado de México,Sí,Sí,2,Sí,1,0,1,0,1,0,0
+256,2/7/2020 8:59:05,Facultad de Ciencias,Masculino,22,8,Heterosexual,Cristianismo,166.0,50.0,2.0,14.0,Sí,2,Prepa,23,59.0,Licenciatura,58.0,Licenciatura,Tlalpan,No,No,0,No,0,0,1,0,1,0,0
+257,2/7/2020 9:01:00,Facultad de Ciencias,Masculino,19,4,Heterosexual,Catolicismo,173.0,63.0,10.0,15.0,Sí,1,Otro,16,55.0,Secundaria,58.0,Maestría,Coyoacán,No,Sí,2,No,0,0,0,0,0,0,1
+258,2/7/2020 9:02:35,Facultad de Ciencias,Femenino,22,8,Heterosexual,Cristianismo,168.0,70.0,1.0,19.0,Sí,1,Prepa,"11, 12",45.0,Licenciatura,43.0,Licenciatura,Estado de México,No,No,2,No,0,1,0,0,0,0,1
+259,2/7/2020 9:26:00,Facultad de Ciencias,Masculino,20,2,Heterosexual,Agnosticismo,175.0,55.0,5.0,16.0,No,0,Prepa,No,,Licenciatura,41.0,Licenciatura,Estado de México,No,Sí,2,No,0,0,0,1,0,0,0
+260,2/7/2020 9:30:10,Facultad de Ciencias,Femenino,19,4,Heterosexual,Ateismo,165.0,50.0,5.0,15.0,Sí,1,Prepa,21,47.0,Carrera Técnica,44.0,Carrera Técnica,Iztapalapa,No,Sí,2,No,0,1,0,0,1,0,0
+261,2/7/2020 9:30:14,Facultad de Ciencias,Masculino,20,4,Heterosexual,Agnosticismo,174.0,78.5,1.0,19.0,Sí,1,CCH,"2, 20 y 24",47.0,Bachillerato,51.0,Bachillerato,Estado de México,No,Sí,2,No,0,0,0,0,0,1,0
+262,2/7/2020 9:33:54,Facultad de Ciencias,Femenino,23,6,Heterosexual,Catolicismo,158.0,64.0,7.0,18.0,Sí,2,Privada,20,51.0,Carrera Técnica,50.0,Carrera Técnica,Álvaro Obregón,Sí,Sí,1,No,0,1,0,0,0,0,1
+263,2/7/2020 9:34:34,Facultad de Ciencias,Femenino,19,2,Heterosexual,Ateismo,157.0,54.0,1.0,17.0,Sí,3,Privada,1,54.0,Licenciatura,54.0,Maestría,Magdalena Contreras,No,Sí,5,No,0,0,1,0,0,0,1
+264,2/7/2020 9:49:49,Facultad de Ciencias,Femenino,20,2,Heterosexual,Ateismo,156.0,53.0,3.0,18.0,No,6,Privada,"1 hermano, 22 años ",54.0,Doctorado,54.0,Maestría,Coyoacán,Sí,Sí,4,No,0,1,0,0,0,1,0
+265,2/7/2020 15:22:36,Facultad de Arquitectura,Femenino,20,4,Heterosexual,Catolicismo,162.0,70.0,1.0,17.0,No,0,Prepa,14 y 16,46.0,Bachillerato,46.0,Bachillerato,Estado de México,No,Sí,4,No,0,0,0,0,0,0,1
+266,2/7/2020 15:23:30,Facultad de Ingeniería,Masculino,22,3,Heterosexual,Ateismo,180.0,65.0,4.0,15.0,Sí,2,Prepa,0,43.0,Secundaria,50.0,Licenciatura,Coyoacán,No,Sí,4,Sí,2,0,0,0,0,0,1
+267,2/7/2020 15:24:34,Facultad de Ingeniería,Masculino,18,2,Heterosexual,Catolicismo,187.0,67.0,1.0,17.0,Sí,1,Prepa,22 y3,55.0,Licenciatura,56.0,Licenciatura,Azcapotzalco,No,Sí,2,No,0,1,0,0,0,1,0
+268,2/7/2020 15:25:03,Facultad de Ciencias,Femenino,18,2,Heterosexual,Agnosticismo,168.0,77.0,1.0,18.0,No,0,Prepa,22,,Licenciatura,49.0,Carrera Técnica,Azcapotzalco,No,No,0,Sí,12,0,1,0,1,0,0
+269,2/7/2020 15:28:06,Facultad de Economía,Femenino,20,4,Heterosexual,Cristianismo,160.0,62.0,2.0,16.0,No,0,Prepa,20,50.0,Licenciatura,49.0,Licenciatura,Iztapalapa,No,Sí,15,No,0,1,0,0,1,0,0
+270,2/7/2020 15:32:09,Facultad de Medicina,Femenino,18,2,Heterosexual,Catolicismo,155.0,51.0,1.0,17.0,No,1,Prepa,"17, 10",40.0,Secundaria,37.0,Carrera Técnica,Venustiano Carranza,No,Sí,2,Sí,1,1,1,0,0,0,1
+271,2/7/2020 15:32:11,Facultad de Economía,Femenino,18,2,Heterosexual,Agnosticismo,160.0,55.0,8.0,16.0,Sí,2,Prepa,15,56.0,Licenciatura,44.0,Licenciatura,Iztacalco,No,Sí,5,Sí,1,0,1,0,0,0,1
+272,2/7/2020 15:32:13,Facultad de Ciencias Politicas y Sociales,Femenino,18,2,Heterosexual,Agnosticismo,154.0,50.0,1.0,18.0,No,0,Prepa,23,49.0,Maestría,49.0,Maestría,Iztapalapa,No,Sí,2,Sí,1,0,1,0,1,0,0
+273,2/7/2020 15:32:35,Facultad de Contaduría y Administración,Femenino,18,2,Heterosexual,Agnosticismo,153.0,60.0,1.0,15.0,Sí,4,Prepa,No,45.0,Bachillerato,54.0,Secundaria,Estado de México,No,Sí,2,Sí,1,0,0,1,0,0,0
+274,2/7/2020 15:32:45,Facultad de Contaduría y Administración,Femenino,18,2,Heterosexual,Agnosticismo,153.0,60.0,1.0,15.0,Sí,4,Prepa,No,45.0,Bachillerato,54.0,Secundaria,Estado de México,No,Sí,2,Sí,1,0,0,1,0,0,0
+275,2/7/2020 15:42:35,Facultad de Economía,Masculino,19,2,Heterosexual,Catolicismo,169.0,59.0,10.0,15.0,Sí,4,Prepa,9,42.0,Licenciatura,40.0,Licenciatura,Cuajimalpa de Morelos,No,Sí,4,Sí,1,0,1,0,0,0,1
+276,2/7/2020 15:43:17,Facultad de Economía,Masculino,20,4,Heterosexual,Ateismo,177.0,64.0,4.0,16.0,Sí,3,Privada,39 ; 38,59.0,Bachillerato,60.0,Licenciatura,Coyoacán,Sí,Sí,4,Sí,20,0,0,0,1,0,0
+277,2/7/2020 15:47:38,Facultad de Economía,Masculino,20,4,Heterosexual,Catolicismo,172.0,80.0,1.0,19.0,Sí,2,Prepa,30,62.0,Licenciatura,57.0,Licenciatura,Coyoacán,No,Sí,5,No,0,1,0,0,1,0,0
+278,2/7/2020 15:48:14,Facultad de Ciencias,Femenino,19,4,Heterosexual,Catolicismo,162.0,70.0,0.0,,No,0,Prepa,2,50.0,Carrera Técnica,47.0,Licenciatura,Benito Juárez,No,Sí,2,No,0,1,0,0,0,0,1
+279,2/7/2020 15:48:18,Facultad de Ciencias,Femenino,19,4,Heterosexual,Agnosticismo,160.0,58.0,2.0,17.0,No,1,Prepa,25,46.0,Licenciatura,46.0,Licenciatura,Iztapalapa,No,Sí,2,No,0,0,0,0,1,0,0
+280,2/7/2020 16:01:26,Facultad de Psicología,Femenino,22,6,Heterosexual,Catolicismo,150.0,56.0,7.0,17.0,Sí,35,Prepa,23 y 8,49.0,Secundaria,41.0,Secundaria,Álvaro Obregón,No,Sí,10,Sí,2,0,1,0,0,1,0
+281,2/7/2020 19:19:24,Facultad de Arquitectura,Femenino,19,4,Heterosexual,Ateismo,170.0,60.0,3.0,15.0,Sí,4,CCH,16 y 21,50.0,Licenciatura,47.0,Licenciatura,Benito Juárez,Sí,Sí,2,No,0,1,1,0,0,1,0
+282,2/8/2020 6:36:14,Facultad de Ciencias,Femenino,19,4,Heterosexual,Agnosticismo,160.0,58.0,2.0,17.0,No,1,Prepa,25,46.0,Licenciatura,46.0,Licenciatura,Iztapalapa,No,Sí,2,No,0,0,0,0,1,0,0
+283,2/8/2020 7:42:43,Facultad de Medicina,Femenino,18,2,Heterosexual,Catolicismo,155.0,51.0,1.0,17.0,No,1,Prepa,"17, 10",40.0,Secundaria,37.0,Carrera Técnica,Venustiano Carranza,No,Sí,2,Sí,1,1,1,0,0,0,1
+284,2/8/2020 17:49:18,Facultad de Ciencias,Masculino,18,2,Heterosexual,Catolicismo,167.0,56.0,1.0,17.0,No,0,Prepa,24,50.0,Licenciatura,47.0,Licenciatura,Tlalpan,Sí,Sí,6,No,0,1,0,0,1,0,0
+285,2/9/2020 20:40:43,Facultad de Química,Femenino,21,8,Heterosexual,Ateismo,164.0,57.0,0.0,0.0,No,0,Prepa,3,60.0,Secundaria,53.0,Secundaria,Venustiano Carranza,No,No,0,No,0,1,0,0,0,0,1
+286,2/11/2020 10:01:44,Facultad de Psicología,Femenino,20,6,Heterosexual,Cristianismo,148.0,50.0,1.0,17.0,Sí,3,CCH,"24, 32 ",55.0,Secundaria,51.0,Carrera Técnica,Iztapalapa,No,Sí,1,No,0,1,1,0,1,0,0
+287,2/18/2020 20:12:38,Facultad de Arquitectura,Masculino,20,4,Bisexual,Agnosticismo,170.0,72.0,4.0,13.0,Sí,1,Otro,27,55.0,Bachillerato,58.0,Licenciatura,Iztacalco,Sí,Sí,1,No,0,0,0,0,1,0,0
+288,2/25/2020 15:12:37,Facultad de Medicina,Femenino,19,4,Heterosexual,Catolicismo,157.0,49.5,2.0,17.0,No,0,Prepa,"30, 28, 18",56.0,Licenciatura,54.0,Licenciatura,Iztapalapa,No,Sí,2,No,0,1,1,0,0,1,0
+289,2/25/2020 15:15:54,Facultad de Ingeniería,Masculino,19,2,Heterosexual,Catolicismo,167.0,57.0,1.0,16.0,Sí,1,Prepa,15,45.0,Secundaria,44.0,Carrera Técnica,Cuauhtémoc,No,Sí,2,No,0,1,0,0,0,0,1
+290,2/25/2020 15:16:11,Facultad de Arquitectura,Masculino,21,6,Heterosexual,Agnosticismo,175.0,75.0,10.0,15.0,Sí,4,CCH,25 y 29,45.0,Licenciatura,47.0,Licenciatura,Tláhuac,No,Sí,1,No,0,0,1,0,1,0,0
+291,2/25/2020 15:16:27,Facultad de Arquitectura,Masculino,21,6,Heterosexual,Catolicismo,178.0,73.0,1.0,15.0,No,0,Prepa,21,21.0,Secundaria,50.0,Carrera Técnica,Iztapalapa,No,Sí,0,No,0,1,0,0,1,0,0
+292,2/25/2020 15:21:23,Facultad de Arquitectura,Masculino,20,4,Heterosexual,Catolicismo,170.0,55.0,7.0,13.0,No,2,Prepa,"16, 28",45.0,Licenciatura,47.0,Bachillerato,Iztacalco,Sí,Sí,4,No,0,0,0,0,0,1,0
+293,2/25/2020 15:27:56,Facultad de Arquitectura,Femenino,21,6,Heterosexual,Ateismo,160.0,75.0,2.0,15.0,Sí,4,Prepa,"29,30",57.0,Secundaria,62.0,Secundaria,Álvaro Obregón,No,Sí,2,Sí,4,1,0,0,1,0,0
+294,2/25/2020 15:28:01,Facultad de Arquitectura,Femenino,21,6,Bisexual,Ateismo,160.0,60.0,1.0,17.0,Sí,4,Prepa,"19, 13",39.0,Licenciatura,39.0,Maestría,Álvaro Obregón,No,Sí,1,Sí,2,1,0,0,0,0,1
+295,2/25/2020 15:28:24,Facultad de Arquitectura,Femenino,21,6,Heterosexual,Ateismo,172.0,70.0,1.0,20.0,Sí,4,Prepa,26,52.0,Carrera Técnica,46.0,Carrera Técnica,Cuauhtémoc,No,No,0,Sí,2,1,0,0,1,0,0
+296,2/25/2020 15:29:04,Facultad de Arquitectura,Femenino,23,8,Bisexual,Agnosticismo,167.0,55.0,8.0,17.0,Sí,5,Prepa,7,41.0,Licenciatura,40.0,Licenciatura,Iztacalco,No,Sí,3,No,0,0,0,0,0,0,1
+297,2/25/2020 15:29:53,Facultad de Arquitectura,Femenino,23,6,Heterosexual,Catolicismo,155.0,50.0,1.0,20.0,Sí,1,Prepa,"20, 12",54.0,Doctorado,54.0,Carrera Técnica,Estado de México,No,Sí,2,No,0,0,1,0,0,0,1
+298,2/25/2020 15:32:02,Facultad de Ingeniería,Femenino,21,8,Heterosexual,Ateismo,153.0,560.0,7.0,15.0,No,0,Prepa,23 y 26,56.0,Licenciatura,56.0,Bachillerato,Gustavo A. Madero,No,Sí,5,No,0,1,0,0,1,0,0
+299,2/25/2020 15:33:17,Facultad de Ciencias,Masculino,19,2,Heterosexual,Ateismo,180.0,65.0,1.0,18.0,Sí,1,Prepa,15,51.0,Bachillerato,49.0,Licenciatura,Tlalpan,No,Sí,1,No,0,1,0,0,0,0,1
+300,2/25/2020 15:34:22,Facultad de Arquitectura,Femenino,24,5,Heterosexual,Agnosticismo,161.0,57.0,1.0,20.0,No,0,Privada,"38,35,30,28,26",71.0,Licenciatura,62.0,Licenciatura,Cuauhtémoc,No,Sí,0,No,0,0,1,0,1,0,0
+301,2/25/2020 15:35:08,Facultad de Arquitectura,Femenino,18,2,Heterosexual,Agnosticismo,157.0,44.0,1.0,14.0,Sí,1,Prepa,15,46.0,Licenciatura,46.0,Licenciatura,Iztapalapa,No,Sí,1,No,0,1,0,0,0,0,1
+302,2/25/2020 15:38:32,Facultad de Arquitectura,Femenino,24,8,Heterosexual,Catolicismo,160.0,58.0,1.0,19.0,Sí,4,Privada,"Masculino 36, femenino 33, masculino 27",60.0,Licenciatura,63.0,Bachillerato,Venustiano Carranza,No,Sí,4,Sí,1,1,0,0,1,0,0
+303,2/25/2020 15:45:02,Facultad de Arquitectura,Masculino,24,9,Heterosexual,Catolicismo,180.0,80.0,5.0,15.0,Sí,2,CCH,20,56.0,Licenciatura,56.0,Licenciatura,Tlalpan,Sí,Sí,15,Sí,1,0,1,0,0,0,1
+304,2/25/2020 15:45:03,Facultad de Arquitectura,Femenino,23,10,Heterosexual,Catolicismo,159.0,60.0,4.0,18.0,Sí,2,Privada,19,51.0,Licenciatura,53.0,Licenciatura,Coyoacán,No,Sí,1,No,0,1,0,0,0,0,1
+305,2/25/2020 15:45:04,Facultad de Ingeniería,Masculino,20,4,Heterosexual,Cristianismo,175.0,97.0,0.0,,No,0,CCH,No,52.0,Secundaria,48.0,Secundaria,Estado de México,No,Sí,1,No,0,0,0,1,0,0,0
+306,2/25/2020 15:47:21,Facultad de Arquitectura,Femenino,18,2,Heterosexual,Catolicismo,170.0,59.0,1.0,18.0,Sí,0,Prepa,22,54.0,Licenciatura,50.0,Licenciatura,Coyoacán,No,Sí,2,No,0,0,0,0,1,0,0
+307,2/25/2020 15:50:39,Facultad de Arquitectura,Femenino,19,4,Bisexual,Catolicismo,175.0,75.0,19.0,15.0,No,3,CCH,1,56.0,Licenciatura,56.0,Licenciatura,Iztapalapa,Sí,Sí,3,Sí,31,1,0,0,0,0,1
+308,2/25/2020 15:50:41,Facultad de Arquitectura,Femenino,21,4,Heterosexual,Agnosticismo,154.0,57.0,3.0,14.0,No,0,Prepa,"1,26",61.0,Licenciatura,0.0,Carrera Técnica,Miguel Hidalgo,No,Sí,1,No,0,0,1,0,0,1,0
+309,2/25/2020 15:50:49,Facultad de Arquitectura,Masculino,20,4,Heterosexual,Ateismo,170.0,64.0,1.0,16.0,Sí,2,CCH,30 y 35,54.0,Secundaria,53.0,Secundaria,Miguel Hidalgo,No,Sí,3,No,0,0,1,0,1,0,0
+310,2/25/2020 15:51:49,Facultad de Arquitectura,Femenino,19,4,Heterosexual,Catolicismo,157.0,50.0,0.0,0.0,No,0,CCH,"26, 21, 19",65.0,Licenciatura,55.0,Secundaria,Cuauhtémoc,No,No,0,No,0,0,1,0,1,0,0
+311,2/25/2020 15:54:29,Facultad de Arquitectura,Masculino,19,2,Heterosexual,Catolicismo,172.0,65.0,3.0,16.0,Sí,1,CCH,22,45.0,Bachillerato,42.0,Bachillerato,Xochimilco,Sí,Sí,2,No,0,1,0,0,1,0,0
+312,2/25/2020 15:55:33,Facultad de Arquitectura,Masculino,19,3,Heterosexual,Cristianismo,165.0,56.0,5.0,15.0,Sí,12,CCH,18,42.0,Carrera Técnica,42.0,Carrera Técnica,Iztacalco,No,Sí,3,No,0,0,1,0,0,0,1
+313,2/25/2020 16:07:36,Facultad de Ingeniería,Femenino,22,6,Bisexual,Ateismo,150.0,45.0,6.0,16.0,Sí,9,Prepa,28,69.0,Licenciatura,57.0,Licenciatura,Coyoacán,No,Sí,7,No,0,0,1,0,1,0,0
+314,2/26/2020 7:08:48,Facultad de Arquitectura,Femenino,18,2,Heterosexual,Catolicismo,170.0,59.0,1.0,18.0,Sí,0,Prepa,22,54.0,Licenciatura,50.0,Licenciatura,Coyoacán,No,Sí,2,No,0,0,0,0,1,0,0
